@@ -1,0 +1,2804 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De fastis Anglicis, sive Calendarium Sacrum The holy calendar : being a treble series of epigrams upon all the feasts observed by the Church of England : to which is added the like number of epigrams upon some other more especiall daies, which have either their footsteps in Scripture, or are more remarkeable in this kingdome / composed by Nathanael Eaton ...</title>
+            <author>Eaton, Nathaniel, 1609?-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 106 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37604</idno>
+            <idno type="STC">Wing E116</idno>
+            <idno type="STC">ESTC R23217</idno>
+            <idno type="EEBO-CITATION">12494131</idno>
+            <idno type="OCLC">ocm 12494131</idno>
+            <idno type="VID">62456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 210:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>De fastis Anglicis, sive Calendarium Sacrum The holy calendar : being a treble series of epigrams upon all the feasts observed by the Church of England : to which is added the like number of epigrams upon some other more especiall daies, which have either their footsteps in Scripture, or are more remarkeable in this kingdome / composed by Nathanael Eaton ...</title>
+                  <author>Eaton, Nathaniel, 1609?-1674.</author>
+               </titleStmt>
+               <extent>80 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H.L. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  Church of England.</term>
+               <term>Epigrams.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62456:1"/>
+            <pb facs="tcp:62456:1" rendition="simple:additions"/>
+            <p>
+               <hi>De Fastis Anglicis, SIVE CALENDARIUM SACRUM.</hi> THE Holy Calendar:</p>
+            <p>BEING A treble Series of EPIGRAMS upon all the Feaſts obſerved BY THE <hi>Church</hi> OF <hi>England.</hi>
+            </p>
+            <p>To which is added the like Number of EPIGRAMS upon ſome other more eſpeciall Daies, which have either their footſteps in Scripture, or are more remarkeable in this KINGDOME.</p>
+            <p>Compoſed by <hi>Nathanael Eaton</hi> Doctor of Phi<g ref="char:EOLhyphen"/>loſophy, and Medicine, and Vicar of <hi>Biſhops<g ref="char:EOLhyphen"/>Castle</hi> in the County of <hi>SALOP.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H L.</hi> and are to be ſold at Kings Colledge in Puddledock. 1661.</p>
+         </div>
+         <div type="dedication_in_epigrams">
+            <pb facs="tcp:62456:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:62456:2"/>
+            <head>To the Sacred Majeſty of his Dread Soveraign <hi>CHARLES</hi> the Second, by the Grace of God King of <hi>England, Scot<g ref="char:EOLhyphen"/>land, France,</hi> and <hi>Ireland,</hi> Defendor of the Faith, <hi>&amp;c. Nathanael Eaton</hi> Doctor of Philoſophy and Medicine, and Vicar of <hi>Biſhops-Caſtle</hi> in the County of <hi>Salop,</hi> upon the knees of his Soul, moſt humbly Dedi<g ref="char:EOLhyphen"/>cates himſelf, and theſe poor Fruits of his vacant hours.</head>
+            <lg>
+               <head>Sancti ad Regem. <hi>Epig. 1.</hi>
+               </head>
+               <l>
+                  <seg rend="decorInit">S</seg>Layne firſt by Pagans malice, and of late Murthred again, by the Fanatique hate Of falſe-nam'd Chriſtians: we have none to</l>
+               <pb n="4" facs="tcp:62456:3"/>
+               <l>Unto, thus twice deſtroy'd, Great King, but the</l>
+               <l>Thou art our Earthly Saviour, and alone</l>
+               <l>Muſt either give a Reſurrection</l>
+               <l>Unto our buried names: or we muſt ly,</l>
+               <l>For ever dead to all Poſterity.</l>
+               <l>Do it great Prince, and as three Kingdoms now</l>
+               <l>Unto thy healing Scepter juſtly bow;</l>
+               <l>So ſhall the Saints in Heaven, oblig'd, engage</l>
+               <l>Themſelves alike unto thy Clientage.</l>
+            </lg>
+            <lg>
+               <head>Author ad Regem. <hi>Epig. 2.</hi>
+               </head>
+               <l>THy Grandſires Reſcew from the Pouder blow;</l>
+               <l>Thy Martyr'd Fathers diſmal overthrow:</l>
+               <l>Thine own ſtrange Fortunes: how thou fellſt, and then</l>
+               <l>Beyond all hopes regain'dſt thy Throne agen.</l>
+               <l>Theſe are my Muſes Theames, and unto whom</l>
+               <l>Should then Dread Leige her high flown Poems come</l>
+               <l>But to thy Sacred Self, whoſe Houſe is ſtill</l>
+               <l>The only Subject of her laboring quill.</l>
+               <l>For all ſh' hath writ beſides, conſidering what</l>
+               <l>Relation now, the Saints to thee have got:</l>
+               <l>And what hereafter thou to them ſhalt beare,</l>
+               <l>When you ſhall all fill up one glorious Spheare:</l>
+               <l>May in a ſence, Great Prince, be ſaid to be</l>
+               <l>Written alone upon thy Houſe and Thee.</l>
+            </lg>
+            <lg>
+               <head>Author ad Regem. <hi>Epig. 3.</hi>
+               </head>
+               <l>Well doth our Church Dread Liege acknowledg thee</l>
+               <pb n="5" facs="tcp:62456:3"/>
+               <l>The great Defender of her Faith to be.</l>
+               <l>Whoſe paines have prov'd ſo fortunate herein,</l>
+               <l>That even ſeduced ſouls, again begin</l>
+               <l>To tread th' old Pathes th' had wandred from, and own</l>
+               <l>Thoſe Doctrines which before they rayl'd upon.</l>
+               <l>Thy word's now grown their Canon: &amp; they do</l>
+               <l>Not what their Creed, but what thou guid'ſt them to.</l>
+               <l>The Books that want thy ſtamp, how pure ſo e're,</l>
+               <l>Are laid aſide by them as not ſincere:</l>
+               <l>Popiſh, and Damned, are the names they caſt,</l>
+               <l>On all things which thy cenſure have not paſt.</l>
+               <l>But what's approv'd by thoſe ſweet eyes of thine,</l>
+               <l>Is entertain'd as Perfect and Divine.</l>
+               <l>'Tis this, great King, now makes me crave thine aid,</l>
+               <l>Becauſe I know whatever I have ſaid</l>
+               <l>Upon this holy Subject, though it be</l>
+               <l>Such as is vouch'd by all Antiquitie:</l>
+               <l>Yet if thy Teſt it do not undergo,</l>
+               <l>The partial Reader will ſcarce judg it ſo.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>The Holy Calendar.</head>
+            <div type="epigram">
+               <head>Janus ad Lectores.</head>
+               <lg>
+                  <l>COme ſinful Chriſtians look and learn of me,</l>
+                  <l>To draw Religion out of Poeſie.</l>
+                  <l>Who knows, but what the clearer beams of day</l>
+                  <l>Could not informe you, Ethnick darkneſs may.</l>
+                  <l>My face you ſee a double aſpect bears,</l>
+                  <l>At once ſurveying paſt and future years,</l>
+                  <pb n="6" facs="tcp:62456:4"/>
+                  <l>The things long hence to come, my ſearching eyes,</l>
+                  <l>And thoſe rak'd up in ſilent duſt, deſcryes.</l>
+                  <l>Times winged ſelf that flyes all ſight beſide,</l>
+                  <l>From me his ſubtile footſteps cannot hide.</l>
+                  <l>Be this your rule, ſo ſhall your heedful care,</l>
+                  <l>Shun future crimes, the paſt, your tears repair.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>The Feaſts of January. 2.</head>
+               <lg>
+                  <l>ON Janus firſt the Lord they circumciſe:</l>
+                  <l>The Magi's Star upon the ſixth doth riſe;</l>
+                  <l>The five and twentieth <hi>Saul</hi> converted, 's made</l>
+                  <l>A tiller of that field he waſt had laid;</l>
+                  <l>Upon the thirtieth day the Rebel Crew,</l>
+                  <l>At his own Door the <hi>Royal Martyr</hi> ſlew.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>New years day. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>'TIs cuſtome Lord this day to ſend</l>
+                  <l>A gift to every vulgar freind,</l>
+                  <l>And ſhall I find no gift for thee,</l>
+                  <l>That art the beſt of freinds to me?</l>
+                  <l>There's nothing which my thoughts ſurvey,</l>
+                  <l>My life, my ſoul, the light, the day;</l>
+                  <l>But they are all by gifts to me,</l>
+                  <l>And ſhall I find no gift for thee?</l>
+                  <l>Yea Lord, behold I hear conferr</l>
+                  <l>My life, my ſoul, and whatſo me're</l>
+                  <l>Thy liberal hand hath given to me,</l>
+                  <l>Back as a New-years gift on thee.</l>
+                  <pb n="7" facs="tcp:62456:4"/>
+                  <l>Say'd I gift? ah! 't is not ſo,</l>
+                  <l>Alas both Men and Angels know,</l>
+                  <l>That all theſe things thy Chriſt hath bought,</l>
+                  <l>And therefore I can give thee naught.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Circumciſion. <hi>Epig. 2.</hi>
+               </head>
+               <lg>
+                  <l>TIs not a partial cleanneſs pleaſeth thee,</l>
+                  <l>Thou Lord requir'ſt a total puritie,</l>
+                  <l>Yet circumciſion the primordive ſigne</l>
+                  <l>And badg of this renewing grace of thine,</l>
+                  <l>Notes the ſubjection of ſome ſins alone,</l>
+                  <l>With others it holds no proportion:</l>
+                  <l>What means this Lord, it cannot be that thou</l>
+                  <l>Shouldſt an imperfect righteouſneſs alow?</l>
+                  <l>That ſo men ſlay their luſts, thy zealous eyes</l>
+                  <l>Will winck at all their other vanities.</l>
+                  <l>Only thou wouldſt informe us that this ſin</l>
+                  <l>More then the reſt is rooted deep within;</l>
+                  <l>Runs in the veins, and cannot be withſtood</l>
+                  <l>With leſſer grief, then we can loſe our blood.</l>
+                  <l>'Tis a mother ſin, from whoſe hell-gendring wombe</l>
+                  <l>Thouſands of horrid wickedneſſes come.</l>
+                  <l>And hence it is that thy unerring Writ</l>
+                  <l>Them ſinners ſtiles, that theſe foul crimes commit;</l>
+                  <l>As though however other men may ſtray,</l>
+                  <l>Yet none indeed did ſin but only they.</l>
+                  <l>'Tis the root of all ſins elſe, kill this they dy,</l>
+                  <l>But nouriſh this, th' encreaſe and multiply.</l>
+                  <l>And this is it, indeed thy wiſdom meant</l>
+                  <pb n="8" facs="tcp:62456:5"/>
+                  <l>To note unto us by this Sacrament,</l>
+                  <l>That thoſe that have but this one ſin repreſt,</l>
+                  <l>Are in effect got free from all the reſt.</l>
+                  <l>Cleanſe my foul heart, O Lord, from every ſin,</l>
+                  <l>In pledg whereof, O circumclſe my skin.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>De eadem ad Chriſtum. <hi>Epig. 3.</hi>
+               </head>
+               <lg>
+                  <l>VVHy circumcis'd they Lord thy skin?</l>
+                  <l>On which there was no ſoyle of ſin.</l>
+                  <l>It was we that did the crime commit,</l>
+                  <l>And muſt thy Body ſmart for it?</l>
+                  <l>Was ever ſuch a Method found,</l>
+                  <l>By Proxy for to cure a wound.</l>
+                  <l>Was ever ſuch a Surgeon known,</l>
+                  <l>For others health, would loſe his own?</l>
+                  <l>'Twas thus twixt thee and us indeed,</l>
+                  <l>We ſinn'd, and thou alas didſt bleed,</l>
+                  <l>Thou bled'ſt for us. O! who can hear</l>
+                  <l>Thou didſt ſo, and not ſhed a tear?</l>
+                  <l>A tear! ingrateful, could we weep</l>
+                  <l>Oceans of tears, as vaſt and deep</l>
+                  <l>As thoſe great Seas, whoſe flouds are roul'd</l>
+                  <l>Betwixt the new found world and old:</l>
+                  <l>They would not all ſuffice to pay</l>
+                  <l>On drop of what thou bledſt to day.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="9" facs="tcp:62456:5"/>
+               <head>Epiphany. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>A Star this day my Saviour preacheth thee,</l>
+                  <l>To ſhow what lights thy Preachers ought to be</l>
+                  <l>Hereafter all would ſhine like Stars, but oh!</l>
+                  <l>How few endeavour here ſo bright to ſhow?</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>De eadem. <hi>Epig. 2.</hi>
+               </head>
+               <lg>
+                  <l>IN great Eclipſes Stars are ſeen to ſhine,</l>
+                  <l>Such an Eclipſe (my God) was never as thine.</l>
+                  <l>No wonder if a Star did rule the day,</l>
+                  <l>The Sun diſrob'd of all his ſplendor lay.</l>
+                  <l>Such ſhades of night his beams had over-run,</l>
+                  <l>That men did need a Star to find the Sun.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>De eadem. <hi>Epig. 3.</hi>
+               </head>
+               <lg>
+                  <l>VVHat's this my God theſe <hi>Magi</hi> ſay,</l>
+                  <l>That they have ſeen thy Star to day?</l>
+                  <l>Have all men then their proper Stars,</l>
+                  <l>On which in ſecret characters,</l>
+                  <l>Diſcern'd alone by skilful eyes,</l>
+                  <l>Are writ all humane deſtinies.</l>
+                  <l>Or was there ſome peculiar ſign</l>
+                  <l>Engrav'd upon this Star of thine?</l>
+                  <l>On ſight whereof theſe men could tell,</l>
+                  <l>The birth of <hi>Judah</hi>'s King ſo well?</l>
+                  <l>Or was't a more celeſtial, beam,</l>
+                  <l>From whence this radiant luſtre came?</l>
+                  <pb n="10" facs="tcp:62456:6"/>
+                  <l>Was it thy Spirit, and not their skill,</l>
+                  <l>That did this heavenly light enſtill?</l>
+                  <l>Thy Spirit was preſent Lord we know,</l>
+                  <l>But doubt whither Art concurr'd or no,</l>
+                  <l>However if ſuch Arts there be</l>
+                  <l>That lead their followers unto thee.</l>
+                  <l>And of thy Birth and Kingdom ſhow,</l>
+                  <l>Happy are they that uſe them ſo:</l>
+                  <l>And happy Arts, if ſuch there be,</l>
+                  <l>That lead their followers unto thee.</l>
+                  <l>Let ſelf-wiſe <hi>Zealots</hi> all contemn,</l>
+                  <l>And vainly fear to practiſe them,</l>
+                  <l>Yet if I may learn thee thereby,</l>
+                  <l>Lord teach me ſuch <hi>Aſtrology.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>St. Pauls Converſion. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>SEe here my ſoul what power thy Saviour hath,</l>
+                  <l>He who ſo late deſtroy'd, now builds the Faith.</l>
+                  <l>Who would diſpair that this example ſee,</l>
+                  <l>Thy God, my ſoul, may do as much for thee.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>De eadem. <hi>Epig. 2.</hi>
+               </head>
+               <lg>
+                  <l>GOd hath forgiven thy ſins, bleſt <hi>Paul,</hi> we know,</l>
+                  <l>Yet he with thine own rod will ſcourg thee though,</l>
+                  <l>None did purſue the Name of Jeſus more,</l>
+                  <l>And for that Name, none is purſu'd ſo ſore;</l>
+                  <l>A fruitful ſoyle thy rage did light upon,</l>
+                  <l>Thou gav'ſt ſome death's, and ſuffredſt many a one.</l>
+                  <pb n="11" facs="tcp:62456:6"/>
+                  <l>Thus God at once a pattern made in thee,</l>
+                  <l>Both of his Juſtice, and his Clemencie.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the light that ſhone round about St. Paul, as he was travelling to <hi>Damaſcus.</hi>
+               </head>
+               <head>Act. 9. 3.</head>
+               <head>Epig. 3.</head>
+               <lg>
+                  <l>I Thought ſweet Saviour, thou hadſt ſent this light</l>
+                  <l>Not to deprive, but to reſtore the ſight</l>
+                  <l>Of this raſh <hi>Zealot,</hi> whoſe offence, alas!</l>
+                  <l>Not malice to thy truth, but blindneſs was;</l>
+                  <l>Yet Lord, no ſooner he theſe beams deſcries,</l>
+                  <l>But 'ſtead of being cur'd, he loſt his eyes.</l>
+                  <l>What Paradox is this my God? may then</l>
+                  <l>Thy rayes be look'd on by no mortal men?</l>
+                  <l>Muſt we have eyes from thee as well as light?</l>
+                  <l>Elſe midſt of day ſhall we be wrapp'd in night?</l>
+                  <l>Or is't thy way of cure? unleſs we be</l>
+                  <l>Firſt ſtricken blind, canſt thou not make us ſee?</l>
+                  <l>If ſo, our ſelves, Lord, at thy feet we caſt,</l>
+                  <l>Do what thou wilt, ſo we may ſee at laſt.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Decollatio Caroli.</head>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the Scotch Inſurrection, and the black conſequences thereof.</head>
+               <head>Epig. 1.</head>
+               <lg>
+                  <l>
+                     <hi>SCotos</hi> in Greek black darkneſs doth import</l>
+                  <l>With us a Scotchman; and theres reaſon for't,</l>
+                  <pb n="12" facs="tcp:62456:7"/>
+                  <l>For thoſe black deeds that Hell would hardly own,</l>
+                  <l>The Scotchmen firſt began to ſet upon.</l>
+                  <l>
+                     <hi>England</hi> indeed matur'd the horrid Plot,</l>
+                  <l>But the firſt riſe thereof was from the Scot.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon <hi>Mat. 18. 8, 9.</hi> If thine hand or thy foot offend thee, <hi>&amp;c.</hi>
+               </head>
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>OUr Lords mild counſels only did extend,</l>
+                  <l>To th' eye, and hand, and foot, that did offend.</l>
+                  <l>But our new Doctors more profoundly read,</l>
+                  <l>To ſave the Body, lopp'd away the Head.</l>
+                  <l>Bleſt Artiſts, may their trembling hearts be ſure</l>
+                  <l>At their worſt throwes, to meet with ſuch a cure.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the Proverb that ſtiles the King of <hi>England,</hi> King of Devils.</head>
+               <head>Epig. 3.</head>
+               <lg>
+                  <l>DEvils I believe when they rebell'd, had ſpight</l>
+                  <l>Enought' have thrown th' Eternal Godhead quite</l>
+                  <l>Both from his throne and being. But their ſin</l>
+                  <l>Met with a Power, that curb'd thoſe ſuries in,</l>
+                  <l>And ſo abridg'd their guilt. But our black brood</l>
+                  <l>Found none to Heavens unfathom'd counſel ſtood</l>
+                  <l>That dur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t oppoſe their crimes, but curſt have done</l>
+                  <l>That which thoſe Devils but only thought upon.</l>
+                  <l>And therefore their foul ſin, as far exceeds</l>
+                  <l>The others, as intents come ſhort of deeds.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="13" facs="tcp:62456:7"/>
+               <head>Februarius.</head>
+               <lg>
+                  <l>TO Princely Numa's gift my name I owe,</l>
+                  <l>Who by Egeria taught, that men below</l>
+                  <l>By their continued treſpaſſes incenſe,</l>
+                  <l>The heavenly Powers to hurle their judgments thence.</l>
+                  <l>Choſe this my Month to be a time, wherein</l>
+                  <l>With annual purgings they might cleanſe their ſin.</l>
+                  <l>And from thoſe Rites which in that language cary</l>
+                  <l>The name of <hi>Februa</hi>' call'd me <hi>February.</hi>
+                  </l>
+                  <l>Chriſtians yet ſtile me ſo, but oh the ſhame!</l>
+                  <l>Th' have loſt the practice, though they keep the name.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>The Feaſts of February. 2.</head>
+               <lg>
+                  <l>
+                     <hi>MAry</hi> on <hi>Februs</hi> ſecond's purify'd. guide.</l>
+                  <l>The fourteenth day young <hi>Valentine</hi> doth</l>
+                  <l>The four and twentieth is <hi>Matthias</hi> guift,</l>
+                  <l>All but Leap-years, and then the twenty-fifth.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Purification of the bleſſed Virgin.</head>
+               <head>Epig. 1.</head>
+               <lg>
+                  <l>BLeſt Mother of the Bleſſedſt Seed, that are</l>
+                  <l>The pregnant womb of teeming fleſh did bear.</l>
+                  <l>What new black ſtaines be theſe thy ſoul have dy'd,</l>
+                  <l>That thou haſt need now to be purify'd?</l>
+                  <l>Art not thou ſhe, bright Virgin, whom ere while,</l>
+                  <l>The tongue of Angels full of Grace did ſtile?</l>
+                  <pb n="14" facs="tcp:62456:8"/>
+                  <l>Art not thou ſhe, who lately from above</l>
+                  <l>Ore ſhadowed was't by that all-hallowing Dove?</l>
+                  <l>Art not thou ſhe, from whoſe thrice happy womb</l>
+                  <l>Repleat with mercies, all our cleanſings come?</l>
+                  <l>And can there yet, bleſt Mayd, ſuch reaſons be</l>
+                  <l>Why theſe vain Rites ſhould be apply'd to thee?</l>
+                  <l>I know not, Lord, what theſe thwart runnings mean,</l>
+                  <l>Can fulneſs want, or grace be ſtil'd unclean?</l>
+                  <l>Can other terrene brutiſh Pigeons do</l>
+                  <l>That which thy Dove could not attain unto?</l>
+                  <l>Or he that freed the guiltful world from blame,</l>
+                  <l>Could he not cleanſe the womb from whence he came</l>
+                  <l>Far be ſuch impious thoughts, theſe Rites infer</l>
+                  <l>No want of power in them, nor grace in her.</l>
+                  <l>They were apt ſprings, rich ſtreams of grace to yeeld,</l>
+                  <l>And ſhe a Veſſel eaſy to be fill'd.</l>
+                  <l>Only th'unnurtur'd World, that could not ſee,</l>
+                  <l>(Blind that they were) this hidden Energie.</l>
+                  <l>Muſt be convinc'd by formes, we're often fain</l>
+                  <l>With outward ſhowes raſh cenſures to reſtrain.</l>
+                  <l>'Tis to be pure that moſt availes indeed,</l>
+                  <l>Yet to be thought ſo, is no more then need.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Ad Mariam. <hi>Epigr. 2.</hi>
+               </head>
+               <lg>
+                  <l>I Cannot tell, the Subſtance ſelf, being by</l>
+                  <l>Why theſe vain ſhadowes ſhould be priz'd ſo high</l>
+                  <l>'Tis that bleſt Babe, whom thy glad armes encloſe,</l>
+                  <l>From whence both thine, and all our cleanſing flows.</l>
+                  <pb n="15" facs="tcp:62456:8"/>
+                  <l>This Ritual Law no other uſe pretends,</l>
+                  <l>But to adumbrate what from him deſcends.</l>
+                  <l>And is ſuperfluous now, unleſſe it be</l>
+                  <l>To ſhew how well the type and thing agree.</l>
+                  <l>Or that the Worlds weak eyes were yet too dim,</l>
+                  <l>Unleſs 'twere through a veyle to look on him.</l>
+                  <l>Bleſt Mayd, thou no ſuch medium's want'ſt indeed,</l>
+                  <l>Whoſe eyes undazeled, on his beams do feed.</l>
+                  <l>But we whoſe weakneſs cannot brook the Sun,</l>
+                  <l>By ſhadowes beſt diſcern his motion.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 3.</head>
+               <lg>
+                  <l>I Apprehend, Bright Maid, no reaſon for't,</l>
+                  <l>So God-like pure, as we believe thou wert,</l>
+                  <l>Why thou ſhouldſt theſe myſterious Rites apply</l>
+                  <l>Thy ſpotleſs ſelf, yet more to purify.</l>
+                  <l>Unleſs perhaps, as ſome affirm, there be</l>
+                  <l>A new found <hi>Acme</hi> in Divinitie,</l>
+                  <l>Like unto that, which in another ſenſe,</l>
+                  <l>Grammarians call the more then perfect tenſe:</l>
+                  <l>I know not how their dreams they can aſſure,</l>
+                  <l>But this I know, thou'rt either more then pure,</l>
+                  <l>Or theſe Myſterious Rites, Bright Mayd, to thee,</l>
+                  <l>That wert ſo pure before, ſuperflous be.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Valentine. a Valendo. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>THy name imports a Power, and juſtly too,</l>
+                  <l>For no Power elſe can work, what thine can do.</l>
+                  <pb n="16" facs="tcp:62456:9"/>
+                  <l>Kings rule the earth, fire, ſword, and torturing racks</l>
+                  <l>The body with a thouſand death's diſtracts;</l>
+                  <l>But can proceed no further, only thine,</l>
+                  <l>Thy power commands the ſoul, great <hi>Valentine.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 2.</head>
+               <lg>
+                  <l>THere's no reſiſting, I muſt ſerve thee too,</l>
+                  <l>Great Saint, as well as all the Creatures do.</l>
+                  <l>Feirce untam'd Beaſts, and winged Foules betray</l>
+                  <l>A ſenſe of Love, and feel thy power to day.</l>
+                  <l>And ſo do I, but in a lawful fire</l>
+                  <l>Whoſe heat, oh may it never more expire!</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 3.</head>
+               <lg>
+                  <l>NO more vayne men, to Cupids Altars ſue,</l>
+                  <l>We have a better Saint to go unto:</l>
+                  <l>A Saint that breaths chaſt flames, whoſe hand doth hold</l>
+                  <l>Arrowes compacted all of pureſt gold.</l>
+                  <l>No leaden mixtures, no blew wounds that ſhow</l>
+                  <l>The venom'd point from whence their rancors flow.</l>
+                  <l>If then to bleſſe your amorous hopes, you need</l>
+                  <l>Some favoring Powers; let <hi>Valentine</hi> ſucceed</l>
+                  <l>The <hi>Cyprian</hi> fondling. Pious ſouls may ſeek</l>
+                  <l>The ſweets of Love, without a bluſhing cheek.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="17" facs="tcp:62456:9" rendition="simple:additions"/>
+               <head>Matthias de ſeipſo. <hi>Epigr. 1.</hi>
+               </head>
+               <lg>
+                  <l>ACcurſt <hi>Iſcariots</hi> vacant roome I fill,</l>
+                  <l>See's make their Biſhops neither good nor ill.</l>
+                  <l>All are not rocks that ſit in <hi>Peters</hi> chaire,</l>
+                  <l>Nor Divels, that <hi>Judas</hi> his ſucceſſors are.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Judas ad Romanos. <hi>Epigr. 2.</hi>
+               </head>
+               <lg>
+                  <l>FOnd <hi>Romans, Peters</hi> dubious chaire reſigne,</l>
+                  <l>'Tis for your honor more to ſit in mine.</l>
+                  <l>None of the twelve themſelves will not deny,</l>
+                  <l>Left an Apoſtle in his ſeat, but I.</l>
+                  <l>Their meaner followers, meaner titles bare,</l>
+                  <l>Mine with th' eleven aſſum'd an equal chaire.</l>
+                  <l>If you would needs aſpire, my name had bin,</l>
+                  <l>Apter t' have mask'd your vaſt ambition in</l>
+                  <l>Then <hi>Peter</hi>'s claime, of whom 'tis hard to know,</l>
+                  <l>Whe'r ere indeed he were at <hi>Rome,</hi> or no.</l>
+                  <l>But my opprobrious death is that alone,</l>
+                  <l>Which your elſe ſhameleſs cheeks do bluſh to own.</l>
+                  <l>As for the reſt, the conſcious world doth ſee</l>
+                  <l>That you recede from <hi>Cephas,</hi> more then me.</l>
+                  <l>In outward ſhow, I ſeem'd for Jeſus's ſake</l>
+                  <l>To quit the world, and his ſharp croſs to take,</l>
+                  <l>But play'd the thief the while, and made no ſpare,</l>
+                  <l>So I might fill the curſed bagge I bare.</l>
+                  <l>To rob the poor, and as if that were ſmall,</l>
+                  <l>To ſet to ſale, even Chriſt himſelf and all.</l>
+                  <pb n="18" facs="tcp:62456:10"/>
+                  <l>Yet mask'd my treaſons ſtill with ſacred guile,</l>
+                  <l>And cry'd, hail Lord, and kiſs'd him too the while.</l>
+                  <l>And is not this your guiſe, I pray you tell,</l>
+                  <l>Can any actions be more parallel.</l>
+                  <l>Did ever any to one chaire ſucceed,</l>
+                  <l>Whoſe lives exactly view'd, ſo well agreed?</l>
+                  <l>But go to, ſince you think it yet a ſhame</l>
+                  <l>Though you approve my works, to own my name,</l>
+                  <l>Know this, your Seat's not ſo aſham'd of me,</l>
+                  <l>As my Succeſſor of your ſeat would be.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon <hi>Joſeph</hi> ſirnamed <hi>Juſtus,</hi> that was paſſed by; and <hi>Matthias</hi> that was choſen by lot into the roome of <hi>Judas.</hi> Act. 1. 24, 26.</head>
+               <head>Epigr. 3.</head>
+               <lg>
+                  <l>
+                     <hi>JOſeph</hi> (the Juſt) refuſ'd Heavens righteous doom,</l>
+                  <l>Lots out <hi>Matthias</hi> unto <hi>Judas</hi>'s room.</l>
+                  <l>God looks not with mans eyes, the thing and name,</l>
+                  <l>His wiſdome oft finds, not to be the ſame.</l>
+                  <l>The Juſt one, could not but the Juſt approve:</l>
+                  <l>Conformity's the ſureſt ground of love.</l>
+                  <l>But his diſcerning eyes, no doubt, did ſee</l>
+                  <l>One not ſo ſtil'd, to be more Juſt then he.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>March. 1.</head>
+               <lg>
+                  <l>CHange but the names, the Heathen Fables are</l>
+                  <l>Our Chriſtian Goſpels; what's their God of war</l>
+                  <pb n="19" facs="tcp:62456:10"/>
+                  <l>But our dread Lord of Hoaſts, their veſtal Nun,</l>
+                  <l>And great <hi>Quirinus</hi> her immortal Son,</l>
+                  <l>
+                     <hi>Romes</hi> God-like Founder, by his Patriots ſlayn,</l>
+                  <l>But from the eating grave reviv'd again,</l>
+                  <l>And in his Fathers Chariot, mounted high</l>
+                  <l>Above Heavens ſtar-enamel'd canopy.</l>
+                  <l>If you will note it, what doth this proclaime,</l>
+                  <l>But Jeſus, and his Virgin-Mothers name?</l>
+                  <l>Give things this ſenſe, and you ſhall nothing erre,</l>
+                  <l>Though you this Month to <hi>Mars</hi> his name referr.</l>
+                  <l>Though <hi>Rhea Syluia</hi> have her Feſtal day,</l>
+                  <l>And <hi>Romulus</hi> his <hi>Quirinalia.</hi>
+                  </l>
+                  <l>All, if you thus interpret, things will be,</l>
+                  <l>Who ere gain-ſaies it, good Divinitie.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>The Feaſts of <hi>March. 2.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>WAles</hi> for her <hi>David, March</hi> his firſt doth claime.</l>
+                  <l>The ſixteenth bears the Iriſh Patricks name.</l>
+                  <l>Bright <hi>Gabriel</hi> on the twenty fifth doth bear</l>
+                  <l>Glad tidings to the Virgin-Mothers eare.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>Saint</hi> David. Epigr. 1.</head>
+               <lg>
+                  <l>
+                     <hi>BRutes</hi> Sons ſhall never ſay, great Saint, that I</l>
+                  <l>Have thruſt thy name out of our Liturgy.</l>
+                  <l>Let others doubt thy Hiſtory, to me</l>
+                  <l>It is enough that <hi>Cambrians</hi> honor thee.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="20" facs="tcp:62456:11"/>
+               <head>Epigr. 2.</head>
+               <lg>
+                  <l>BIſhop, or Champion, whether name be due,</l>
+                  <l>Or whether both, great Saint, and thou like to</l>
+                  <l>That other <hi>David,</hi> in one perſon bear</l>
+                  <l>Prophet and Souldiers equal character.</l>
+                  <l>I cannot tell, but this I am aſſur'd</l>
+                  <l>Under thy auſpice, <hi>Wales</hi> hath long endur'd.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 3.</head>
+               <lg>
+                  <l>WHen my obſerving thoughts revolv how long</l>
+                  <l>
+                     <hi>Brutes</hi> warlike Sons have kept their name and tongue:</l>
+                  <l>With what ſtout hands, they their own fields have held,</l>
+                  <l>Maugre the rage of thoſe feirce ſtormes which ſwell'd</l>
+                  <l>From the rough <hi>Saxons, Danes,</hi> and <hi>Nonmans</hi> hate,</l>
+                  <l>Which like the none-excepting doom of fate</l>
+                  <l>Fell upon all this Iſle, and rouled with</l>
+                  <l>An irreſiſted ſtream from Thames to Frith.</l>
+                  <l>Yet <hi>Brutes</hi> ſtern children kept their own, and ſtood</l>
+                  <l>Coloſſi like athwart thoſe Seas of blood</l>
+                  <l>Unſhaken with the tempeſt. When I weigh</l>
+                  <l>Theſe things, great <hi>David,</hi> I am forc'd to ſay,</l>
+                  <l>That either thou their Champion doſt excell,</l>
+                  <l>Or they no Champion need, they fight ſo well.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="21" facs="tcp:62456:11"/>
+               <head>S. Patrick. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>VEnice</hi> ſometimes choſe <hi>Theodore</hi> to be</l>
+                  <l>Her guardian Saint, but when ſhe found that he</l>
+                  <l>Gave no ſucceſs to her deſigns, ſhe laid</l>
+                  <l>Him by, and call'd in <hi>Mark</hi> unto her aid,</l>
+                  <l>Which courſe unleſs the ruin'd <hi>Ireland</hi> run</l>
+                  <l>And change her Saint too, ſhe is quite undone;</l>
+                  <l>For either her <hi>Patrick</hi> cannot eaſe her needs,</l>
+                  <l>Or which is worſe, he cares not how ſhe ſpeeds.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>
+                     <hi>PAtrick</hi> his prayers they ſay to paſs did bring,</l>
+                  <l>That in the Iriſh ſoil no venom'd thing</l>
+                  <l>May breed, no Toads, no Serpents, Spiders there,</l>
+                  <l>Nor other poiſonous creatures do appear:</l>
+                  <l>A bleſſed gift! if what in them is loſt,</l>
+                  <l>The men have not within their breſts ingroſt.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 3.</head>
+               <lg>
+                  <l>VVIſe <hi>Romans</hi> when they firſt commenced wars,</l>
+                  <l>Againſt a Town call'd out her Tutelars,</l>
+                  <l>And gave them worſhip leaſt perhaps they might,</l>
+                  <l>In favour of the place againſt them fight:</l>
+                  <l>Which courſe whether <hi>England</hi> took when long ago,</l>
+                  <l>Sh' aſſail'd the Iriſh Kings I do not know.</l>
+                  <pb n="22" facs="tcp:62456:12"/>
+                  <l>But this I'me ſure their <hi>Patricks</hi> hand ſince then</l>
+                  <l>Was ne're lift up againſt the Engliſh-men.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Annunciation of the Bleſſed Virgin. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>HAd <hi>Adam</hi> known his wife before the fall,</l>
+                  <l>The bleſſing doubtleſs had been virtual</l>
+                  <l>To propagation, and her firſt-born Son,</l>
+                  <l>Had been conceiv'd without corruption:</l>
+                  <l>But 'twas not ſo, the guilt which ſhe convei'd</l>
+                  <l>To all her Iſſue, proves ſhe ſinn'd a Maid</l>
+                  <l>Before coition, the Impoſtor knew</l>
+                  <l>Too well accurſed, what he had to do,</l>
+                  <l>When he the fountain did infect, that all</l>
+                  <l>The lower ſtreams might ſuck from thence their gall,</l>
+                  <l>Which yet leaſt it might bring a blot upon</l>
+                  <l>That glorious ſtate, the Angels portion,</l>
+                  <l>The lot of Spirits, the life of heaven, and we</l>
+                  <l>For her crimes ſake might loath virginity,</l>
+                  <l>His Grace our all-wiſe Saviour did diſpenſe,</l>
+                  <l>In ſuch an anſwering method, that th' offence</l>
+                  <l>And cure at one ſame gate might enter in,</l>
+                  <l>And the ſalvation parallel the ſin:</l>
+                  <l>Thus what a Maiden loſt, a Maid reſtores,</l>
+                  <l>A Virgin caus'd, a Virgin heal'd our ſores.</l>
+                  <l>
+                     <hi>Evah</hi> tranſgres'd, but you revers'd may read,</l>
+                  <l>In <hi>Maries Ave</hi> both her name and deed:</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="23" facs="tcp:62456:12"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon Luke 1. 45. Bleſſed is ſhe that beleeved, <hi>&amp;c. Epig. 2.</hi>
+               </head>
+               <lg>
+                  <l>SUch news bleſt maid as this bright Angel brings</l>
+                  <l>Of ſuch unheard of inconſiſtent things,</l>
+                  <l>'Tis as much wonder that thou couldſt beleeve,</l>
+                  <l>As 'tis that God could thoſe ſtrange works atchieve:</l>
+                  <l>What hand could interweave but his alone,</l>
+                  <l>A Moment and Eternity in one,</l>
+                  <l>Th' incomprehended eſſence and a ſpan,</l>
+                  <l>The creature and Creator, God and Man.</l>
+                  <l>Or which is leſſe, yet hard enough to do,</l>
+                  <l>Compriſe in one a Maid and Mother too;</l>
+                  <l>'Twas only God this work to paſs could bring,</l>
+                  <l>And onely thou that couldſt beleeve the thing.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 3.</head>
+               <lg>
+                  <l>VVHen in our fleſh thou deign'ſt to lodge no room,</l>
+                  <l>My God would ſerve thee, but a Virgins womb:</l>
+                  <l>But in our hearts being pleas'd by faith to dwell,</l>
+                  <l>It is not now thy lot to ſpeed ſo well;</l>
+                  <l>For ſuch, oh horrid, is our ſinful ſtate,</l>
+                  <l>Thou canſt find none thats not adulterate.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>To find Eaſter for ever.</head>
+               <lg>
+                  <l>THe change in <hi>Februs</hi> if there any be,</l>
+                  <l>Or that which firſt enſues note carefully,</l>
+                  <pb n="24" facs="tcp:62456:13"/>
+                  <l>And the next <hi>Tueſday</hi> doubt it not all,</l>
+                  <l>That doth ſucceed <hi>Shrove Tueſday</hi> you may call.</l>
+                  <l>
+                     <hi>Shrove-Tueſday</hi> paſt you may be bold to ſay,</l>
+                  <l>That <hi>Sunday</hi> ſix weeks after'<hi>s Eaſter Day.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>The other Moveable Feaſts. 2.</head>
+               <lg>
+                  <l>TWo days <hi>Good Friday Eaſter</hi> doth precede,</l>
+                  <l>Fourty from thence to <hi>Holy Thurſday</hi> lead;</l>
+                  <l>Ten more unto <hi>Whitſunday</hi> numbred be,</l>
+                  <l>And one week after that to <hi>Trinity.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Good-Friday, <hi>Paſſio Domini. Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>HEe's dead: Inſult the Infernal Powers, the dread</l>
+                  <l>
+                     <hi>Meſsias, Jeſus</hi> whom you fear'd is dead;</l>
+                  <l>But ſtay, rejoyce not neither, it is from</l>
+                  <l>His death, that your great Empires fall doth come.</l>
+                  <l>'Twas a ſtrange combat this, wherein to ſlay,</l>
+                  <l>The foe you fought with, was to loſe the day;</l>
+                  <l>Yet thus it was, the Field had been your own,</l>
+                  <l>Had you not our great Champion overthrown:</l>
+                  <l>But through his ſides your ſelves accurſt you ſlew,</l>
+                  <l>And he being ruin'd by you, ruin'd you.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="25" facs="tcp:62456:13" rendition="simple:additions"/>
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Luke 22. 44. <hi>And his ſweat was as it were great drops of blood falling to the ground.</hi>
+               </head>
+               <lg>
+                  <l>SEe here my ſoul what weight in ſin remains</l>
+                  <l>When he whoſe ſhoulder all things elſe ſuſtains,</l>
+                  <l>Bow'd underneath the load: if he that ſtood</l>
+                  <l>In equall poize with God, ſweat clods of blood,</l>
+                  <l>And the Almighty groan'd to undergo</l>
+                  <l>The burthen, what muſt finite creatures do?</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon <hi>Matth. 27. 52, 53.</hi> And the graves were opened, and many bodies of Saints which ſlept aroſe. <hi>Epig. 3.</hi>
+               </head>
+               <lg>
+                  <l>THe Prince of life was ſlain and nothing now</l>
+                  <l>Remain'd on earth, whoſe greatnes did not bow</l>
+                  <l>To Death's all conquering power, you would have thought</l>
+                  <l>The world it ſelf would quickly have bin brought</l>
+                  <l>To its laſt gaſpe, and all the creatures have</l>
+                  <l>Been buried with their maker in the grave,</l>
+                  <l>When lo midſt all theſe ſpoils appal'd with fear,</l>
+                  <l>From his own holds the enfeebled Conquerour</l>
+                  <l>Flies with diſtracted ſteps, and leaves his prey,</l>
+                  <l>Free and unguarded to eſcape away,</l>
+                  <l>From their cloſe dungeons the enfranchis'd dead</l>
+                  <l>Are ſent again the ſacred ſtreets to tread.</l>
+                  <l>But wonder not, it was but time to flie,</l>
+                  <l>When he beheld his Kingdome ſeized by</l>
+                  <pb n="26" facs="tcp:62456:14"/>
+                  <l>So ſtrange a wile. Death found, alas! too late,</l>
+                  <l>That he had brought a prey within his gate</l>
+                  <l>That would deſtroy his rights; and that 'twas vayne</l>
+                  <l>To think to ſtay where Jeſus was, though ſlayne</l>
+                  <l>So ſure it was that he, a wondrous thing,</l>
+                  <l>Who came in Captaine, would go out a King.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Easter-Day. Reſurrectio Domini. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>I Know not where the greater wonder lies,</l>
+                  <l>That God ſhould dy, or man from death ſhould riſe.</l>
+                  <l>But this I know, th' are both enough to make</l>
+                  <l>The Angels faith, if not upheld, to ſhake.</l>
+                  <l>God is immortal, and for him to dy,</l>
+                  <l>Were to be ſtripped of his Deity.</l>
+                  <l>And for fraile man, being dead, to riſe again,</l>
+                  <l>Is in effect to ceaſe to be humane.</l>
+                  <l>Neither, if you conſider them alone,</l>
+                  <l>Can be without a contradiction.</l>
+                  <l>And when all tongues have argu'd what they can,</l>
+                  <l>God muſt be God, and man can be but man.</l>
+                  <l>But ſtart not at it, 'tis not thus that we</l>
+                  <l>Muſt meaſure this tranſcendent Myſterie.</l>
+                  <l>If you would view theſe Natures rightly, 'tis</l>
+                  <l>As they concurre in our Hypoſtaſis;</l>
+                  <l>And thus conſidered they no more oppoſe,</l>
+                  <l>Man-God did die, God-Man from death aroſe.</l>
+                  <l>'Twas one ſame Perſon both theſe mazes trod,</l>
+                  <l>Yet roſe he not as Man, nor dy'd as God.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="27" facs="tcp:62456:14" rendition="simple:additions"/>
+               <head>Epigr. 2.</head>
+               <lg>
+                  <l>CHriſt all the Sabbath bound in Grave did ly;</l>
+                  <l>The Sabbath types out vaſt Eternity.</l>
+                  <l>And 'twas Eternal death, indeed our ſin</l>
+                  <l>Infinite that it was, had wrapp'd us in.</l>
+                  <l>But he by carrying brake thoſe bonds, and quit</l>
+                  <l>Us from Eternal death, by ſuffering it;</l>
+                  <l>Happy exchange, now though we die, yet ſhall</l>
+                  <l>Our death not ſtretch to that great Feſtival:</l>
+                  <l>Death may our Corps indeed a while ſurprize,</l>
+                  <l>But we on that great Sabbaths Eve ſhall riſe.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 3.</head>
+               <lg>
+                  <l>THe <hi>Phoenix</hi> birth no more admire, nor what</l>
+                  <l>Old Bardes of her renewed age have wrote;</l>
+                  <l>The Fables which of that ſtrange Bird you read,</l>
+                  <l>Are in our Jeſus verified indeed;</l>
+                  <l>He's the true <hi>Phoenix,</hi> uncompell'd that flies</l>
+                  <l>Into the Mountains forked tops and dies.</l>
+                  <l>His Tombe like hers, with ſweet perfumes is fill'd,</l>
+                  <l>The gums whereof ſuch fragrant ſmells do yeeld,</l>
+                  <l>As Heaven it ſelf delights to ſent; and thoſe</l>
+                  <l>Bleſt Spirits above rejoyce therewith to cloſe.</l>
+                  <l>Dead from his Grave, as from a ſecond Wombe</l>
+                  <l>New-borne, like her he back again doth come</l>
+                  <pb n="28" facs="tcp:62456:15"/>
+                  <l>Into th' aſtoniſhed world, more faire to ſee,</l>
+                  <l>And bright, then ere before he us'd to be.</l>
+                  <l>Only in this our <hi>Phoenix</hi> comes before</l>
+                  <l>The other, that once rays'd, he dies no more.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Aſcenſion. <hi>Epigr. 1.</hi>
+               </head>
+               <lg>
+                  <l>COme down bleſt Saviour, 'tis no ſin to pray</l>
+                  <l>Thee down; I hope upon <hi>Aſcenſion</hi> day</l>
+                  <l>So to deſcend, as I would have thee do,</l>
+                  <l>Is not indeed to fall, but mount unto</l>
+                  <l>A <hi>Zenith,</hi> which thou ne're before couldſt gain</l>
+                  <l>Even my proud heart which rebel luſts have ta'ne,</l>
+                  <l>And mann'd againſt thee: this my God is it</l>
+                  <l>That I would have thee come and ſee and get;</l>
+                  <l>Get this ſtrong hold into thy hands, and make</l>
+                  <l>Her high-rays'd bulwarks at thy ſtorming ſhake,</l>
+                  <l>And droop their heads; make my ſtout thoughts to fall</l>
+                  <l>Proſtrate before thy glorious feet, and all</l>
+                  <l>The powers within me to ly low, and be</l>
+                  <l>Subject henceforth unto no King but thee.</l>
+                  <l>Do this, dear Lord, and my glad ſoul ſhall ſay</l>
+                  <l>To me thou ne're aſcendedſt till to day.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="29" facs="tcp:62456:15"/>
+               <head>Epigr. 2.</head>
+               <lg>
+                  <l>Look in what ſenſe the Son of man was ſaid</l>
+                  <l>To be in Heaven, whil'ſt yet on Earth he ſtayd.</l>
+                  <l>In the ſame ſenſe we grant his body, though</l>
+                  <l>In Heaven, may ſtill be ſay'd to be below.</l>
+                  <l>He is aſcended all agree, that ſame</l>
+                  <l>Material fleſh and blood of his that came</l>
+                  <l>From the pure Virgins Womb, Heavens now retain,</l>
+                  <l>And until all things be reſtor'd again,</l>
+                  <l>Muſt ſtill retain it; yet it is confeſt,</l>
+                  <l>That when the holy Elements are bleſt</l>
+                  <l>By the Prieſts powerful lips, though nothing there</l>
+                  <l>To outward ſenſe, but Bread and Wine appear;</l>
+                  <l>Yet doth there under thoſe dark formes reſide</l>
+                  <l>The body of the Son of Man that dy'd.</l>
+                  <l>This, what bold tongue ſoever doth deny,</l>
+                  <l>Gives in effect even Chriſt himſelf the ly.</l>
+                  <l>Yet this whoe're too groſly doth maintain,</l>
+                  <l>Pulls his aſcended Lord from Heaven again.</l>
+                  <l>A middle courſe 'twixt thoſe two rocks to ſteer,</l>
+                  <l>Is that becomes the Chriſtian Mariner.</l>
+                  <l>So to beleeve the Aſcenſion as to grant</l>
+                  <l>His real Preſence in the Sacrament;</l>
+                  <l>Yet ſo his Real Preſence there to own</l>
+                  <l>As not to make void his Aſcenſion.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="31" facs="tcp:62456:16"/>
+               <head>Epig. 3.</head>
+               <lg>
+                  <l>THe grave and hell were both ſubdu'd, &amp; nought</l>
+                  <l>In thoſe dark coaſts was further to be wrought;</l>
+                  <l>Heaven yet barr'd up her Azure gates to win</l>
+                  <l>An entrance there, and bring his ranſom'd in,</l>
+                  <l>Our Lord aſcends, and with a powerful hand,</l>
+                  <l>Throws ope thoſe claſped doors that did with<g ref="char:EOLhyphen"/>ſtand</l>
+                  <l>Our dear acquir'd admiſſion: Happy day</l>
+                  <l>Wherein we by a new and living way,</l>
+                  <l>His fleſh the vail have found a means into</l>
+                  <l>The holy-holy place aſſur'd to go.</l>
+                  <l>What ſhall our joys henceforth retard, when Hell</l>
+                  <l>And death and heaven are all atton'd ſo well.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Whitſunday, <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>LOrd I would fain thy bounteous grace admire,</l>
+                  <l>Which gav'ſt thy Spirit this day in flames of fire,</l>
+                  <l>But cannot do't if that ſame fire of thine,</l>
+                  <l>Which fill'd their glowing boſoms fill not mine.</l>
+                  <l>Fain I would of thoſe cloven tongues relate</l>
+                  <l>Which this day on thy dear Apoſtles ſate,</l>
+                  <l>But cannot ſpeak, alas, as I ſhould do,</l>
+                  <l>Unleſs one of thoſe tongues be given me too.</l>
+                  <l>None Lord can love, nor praiſe thee well, but thoſe</l>
+                  <l>On whom thy ſelf both fire and tongue beſtows.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="31" facs="tcp:62456:16"/>
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>YOu that deſpiſe all humane helps whereby</l>
+                  <l>Men are prepared for the Miniſtry,</l>
+                  <l>And boaſt you have the Spirit enabling you,</l>
+                  <l>Better then all their Books and Arts can do;</l>
+                  <l>Be not deceiv'd fond men, 'tis more to be</l>
+                  <l>Fitted for ſuch a work, then you can ſee,</l>
+                  <l>Thoſe whom the Holy Ghoſt doth thus inſpire,</l>
+                  <l>He comes to them in tongues as well as fire;</l>
+                  <l>Show us but them, and wee'l allow your call,</l>
+                  <l>If not, we heed not your vain brags at all.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 3.</head>
+               <lg>
+                  <l>DIvided tongues made <hi>Babels</hi> building ceaſe,</l>
+                  <l>But now thy <hi>Zions</hi> buildings do encreaſe.</l>
+                  <l>That was a curſe, the fruit of ſin, but this</l>
+                  <l>One of the Churches greateſt bleſſings is:</l>
+                  <l>Had not that gone before, no need had been,</l>
+                  <l>T'have had this other mercy given in.</l>
+                  <l>But ſuch was now our ſtate, that onely that,</l>
+                  <l>Could cure the plague, which firſt the plague be<g ref="char:EOLhyphen"/>gat.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Trinity Sunday, <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>THree and but one, and one yet branch'd in three</l>
+                  <l>I know not Lord, how this ſtrange thing can be;</l>
+                  <pb n="32" facs="tcp:62456:17"/>
+                  <l>But 'tis no matter what blind worm I know,</l>
+                  <l>So I can but beleeve that it is ſo.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>TAke heed ye bold enquirers how ye pry</l>
+                  <l>Too much into this ſacred myſtery,</l>
+                  <l>'Tis ſafer to beleev then ſearch too far,</l>
+                  <l>Into thoſe truths that ſo tranſcendent are;</l>
+                  <l>The eyes that gaze too long upon the Sun,</l>
+                  <l>Are often ſtricken blind ere they have done.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 3.</head>
+               <lg>
+                  <l>TEll me ye Atheiſts that beleeve no more</l>
+                  <l>Then what your reaſon fathoms, that vaſt ſtore</l>
+                  <l>Of rouling waters that doth daily flow</l>
+                  <l>Into the Ocean, whither doth it go?</l>
+                  <l>What Ciſterns do thoſe big ſwoln ſtreams main<g ref="char:EOLhyphen"/>tain,</l>
+                  <l>That every tide are emptied in the main?</l>
+                  <l>What dark inſtinct compels the churliſh ſteel,</l>
+                  <l>The loadſtones undiſcerned force to feel?</l>
+                  <l>Or if you will ever vulgar things ſurvey,</l>
+                  <l>Thoſe which you taſte and handle every day:</l>
+                  <l>Take me the ſeeds of every plant and tree,</l>
+                  <l>Of every herb and flower that grows, and ſee</l>
+                  <l>If when you have ript them open you can find,</l>
+                  <l>A reaſon why they bring forth ſuch a kind,</l>
+                  <pb n="33" facs="tcp:62456:17"/>
+                  <l>And not another; where that virtue lyes,</l>
+                  <l>That ſuch a form and taſte, and ſmell ſupplies,</l>
+                  <l>So proper to it ſelf, that nothing well</l>
+                  <l>The ſame, except it ſelf can parallel.</l>
+                  <l>Hence let your ſerious thoughts reflect agen,</l>
+                  <l>On the ſtrange Fabrick both of Beaſts and men,</l>
+                  <l>Their bones, their veins, their arteries and all,</l>
+                  <l>Th' eſſential ſtamps they bear and caſual,</l>
+                  <l>The colour of their hair, their eyes and skin,</l>
+                  <l>The extent, their age, and ſtature's bounded in;</l>
+                  <l>And tell me whether your quick-ſight can read</l>
+                  <l>The ground of all theſe wonders in the ſeed.</l>
+                  <l>Poor Skepticks, in theſe common things below,</l>
+                  <l>The furtheſt that your utmoſt skill can go,</l>
+                  <l>Is only to diſcern that thus they be,</l>
+                  <l>But why they're thus, alas, you cannot ſee:</l>
+                  <l>Yet with th' Almighty you are grown ſo bold,</l>
+                  <l>That though you in his Holy Word be told;</l>
+                  <l>That that one ever bleſſed Eſſence is</l>
+                  <l>Diſtinguiſh'd into three Hypoſtaſies.</l>
+                  <l>And that thoſe three Hypoſtaſies abide,</l>
+                  <l>Still one ſame Eſſence undiverſified;</l>
+                  <l>Yet is it not enough for you to know,</l>
+                  <l>That thus it is, unleſs we further ſhow</l>
+                  <l>You why, and how it can be thus, and bring</l>
+                  <l>Some proofs beſides his <hi>Dixit,</hi> of the thing.</l>
+                  <l>But go to you, Blaſphemers, if there be<g ref="char:punc">▪</g>
+                  </l>
+                  <l>No other way to clear this Myſterie,</l>
+                  <l>Unto your ſtaggering Faith, but ſenſe; be ſure</l>
+                  <l>One day (though then 'twill be too late a cure)</l>
+                  <pb n="34" facs="tcp:62456:18"/>
+                  <l>Your very eyes ſhall ſee, and ſeeing pine,</l>
+                  <l>The glory of the <hi>Trin-une, <g ref="char:V">Ʋ</g>ni-trine.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>April 1.</head>
+               <lg>
+                  <l>
+                     <hi>ROmans</hi> this Month to <hi>Venus</hi> did aſſign,</l>
+                  <l>From whom their Prince <hi>Aeneas</hi> drew his line.</l>
+                  <l>Her Aphrodite from thoſe white froths they call</l>
+                  <l>Which gave their Goddeſs his original,</l>
+                  <l>And the Month <hi>April:</hi> 'Tis a nobler wombe,</l>
+                  <l>From whence our Princes high deſcent doth come,</l>
+                  <l>Nor is't from ſpurious froaths, but Seas that we</l>
+                  <l>May draw (we think) her Etymologie.</l>
+                  <l>Put all together, froaths with Seas compare,</l>
+                  <l>View what both Princes, what their mothers are;</l>
+                  <l>And if the odds with <hi>Venus</hi> ſtill remain,</l>
+                  <l>Let her the guidance of this Month retain;</l>
+                  <l>But if our <hi>Marie</hi> have a juſter right,</l>
+                  <l>Let her aſſume the place of Aphrodite.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>The Feasts of April 2.</head>
+               <lg>
+                  <l>ON <hi>Aprils</hi> three and twentieth <hi>George</hi> beſtrides,</l>
+                  <l>His warlike ſteed and 'gainſt the Dragon rides.</l>
+                  <l>The twenty fift to raiſe our wonder more,</l>
+                  <l>The winged Lyon's voice is heard to roar.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="35" facs="tcp:62456:18"/>
+               <head>Saint George, Epig. 1.</head>
+               <lg>
+                  <l>SEe here in <hi>Georges</hi> Portraiture a true</l>
+                  <l>Deſcription of what Chriſtians ought to do;</l>
+                  <l>No civill warrs, no brothers blood imbrues</l>
+                  <l>His righteous hands, he no ſuch foes purſues;</l>
+                  <l>The croſs his Engſin is, his Faith his ſhield,</l>
+                  <l>His ſword the Scripture, his own heart the Field;</l>
+                  <l>His enemy the Dragon, him alone</l>
+                  <l>He thinks it worth his while to ſet upon;</l>
+                  <l>O God that we who <hi>George</hi> our champion call,</l>
+                  <l>Save ſuch as theſe would fight no fights at all.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>WOuldſt thou a combat undertake wherein,</l>
+                  <l>Thou might'ſt be ſure the victory to win,</l>
+                  <l>And with it gain a Kingdome too, then fight</l>
+                  <l>Saint <hi>Georges</hi> duels, let thy oppoſite,</l>
+                  <l>Be the red Dragon, and on him be ſure,</l>
+                  <l>Thou both the one and th'other ſhalt procure;</l>
+                  <l>For none ere fought with him but won the day,</l>
+                  <l>And none ere won, but bore a Crown away.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="36" facs="tcp:62456:19" rendition="simple:additions"/>
+               <head>Epig. 3.</head>
+               <lg>
+                  <l>VVHether <hi>George</hi> a humane creature were in<g ref="char:EOLhyphen"/>deed,</l>
+                  <l>Or but an Embleme of that promiſed ſeed,</l>
+                  <l>Whom God of old had ſet apart to tread</l>
+                  <l>Upon the conquered Serpents wounded head;</l>
+                  <l>Is not agreed: But this is ſure, no hand,</l>
+                  <l>Of men or Devils, is able to withſtand</l>
+                  <l>Thoſe whom that Champion aides, let him but fight</l>
+                  <l>On <hi>Englands</hi> ſide, and we will dare the ſpight</l>
+                  <l>Of all the adverſe world, no power can harm</l>
+                  <l>Them who are guarded by ſo ſtrong an arm:</l>
+                  <l>Needs muſt his might all other force repell,</l>
+                  <l>Before whoſe feet the Dragon conquered fell.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Saint Mark, <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>CHriſt is the Lambe ſo ſacred Writs define,</l>
+                  <l>To <hi>Mark</hi> a Lions Figure they aſſign;</l>
+                  <l>Yet ſee what Miracles from grace can ſpring,</l>
+                  <l>The Lamb is now become the Lyons King.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>DRead not poor ſheep, this roaring Lion here,</l>
+                  <l>Goes not about your trembling fleſh to tear,</l>
+                  <pb n="37" facs="tcp:62456:19"/>
+                  <l>The World is chang'd, thoſe paws that us'd of old</l>
+                  <l>To rend the flock, do now preſerve the fold</l>
+                  <l>But would you know by what means this is done,</l>
+                  <l>
+                     <hi>Saturn</hi> was then in <hi>Leo,</hi> now the Sun.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the State of <hi>Venice,</hi> or S. <hi>Marks</hi> arroga<g ref="char:EOLhyphen"/>ting the dominion of the Adriatick Sea. <hi>Epig. 3.</hi>
+               </head>
+               <lg>
+                  <l>I Wonder not if all the Earth doth fear</l>
+                  <l>
+                     <hi>Venetia's</hi> power, her Patron <hi>Mark</hi> doth bear</l>
+                  <l>A Lions figure, whoſe ſtern voice doth make</l>
+                  <l>The neighboring deſarts all about to ſhake;</l>
+                  <l>Nor do I wonder when the Beaſt doth ſpread</l>
+                  <l>His wings abroad, if all the air do dread.</l>
+                  <l>Thus far there's reaſon for't, the Earth and Air</l>
+                  <l>Are both th'amphibious Monſters thorow-fair;</l>
+                  <l>And 'tis not to be wondred, if he fills</l>
+                  <l>Both Tracts with terror of his voice and quills.</l>
+                  <l>This only I admire, upon what right,</l>
+                  <l>He Lords it over the blew Amphitrite;</l>
+                  <l>Why Seas ſhould fear him, whoſe curl'd waves are free</l>
+                  <l>From his proud threats, and roar as loud as he</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>May 1.</head>
+               <lg>
+                  <l>SUch due reſpects wiſe <hi>Romans</hi> to their grave</l>
+                  <l>And hoary Elders, though but Heathens, gave,</l>
+                  <pb n="38" facs="tcp:62456:20"/>
+                  <l>That next their guardian Deities they ſet,</l>
+                  <l>Their Names upon this Months fair Frontelet;</l>
+                  <l>Which it keeps ſtill unraz'd, and to this day,</l>
+                  <l>From thoſe Grand Majors is ſirnamed <hi>May.</hi>
+                  </l>
+                  <l>Age crown'd with wiſdome high regards doth claim</l>
+                  <l>Ancient of days is Gods own glorious name:</l>
+                  <l>Whoſe more eſpecial ſtamp doth ſeem to be</l>
+                  <l>Engrav'd upon their ſnowie gravitie;</l>
+                  <l>Yet ſuch is our foul ſin, oh! wo the while,</l>
+                  <l>We ſlight the duty, though we own the ſtile.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>The Feaſts in <hi>May 2.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>PHilip</hi> and <hi>Jacob May</hi> the firſt doth own</l>
+                  <l>The twenty ninth <hi>Charles</hi> re-aſcends his Throne.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Philip and Jacob <hi>Epigr. 1.</hi>
+               </head>
+               <lg>
+                  <l>GReat pair of Saints, when your two names I ſee</l>
+                  <l>Coupled together in the Epigraphie,</l>
+                  <l>Of this fair Feaſt, I'me ready ſtrait to cry,</l>
+                  <l>That ſurely <hi>Sol's</hi> in love with <hi>Gemini;</hi>
+                  </l>
+                  <l>Before his time the horned Bull forſakes,</l>
+                  <l>And with the beauteous Twins his lodging takes;</l>
+                  <l>This certainly the glorious Saints, I know</l>
+                  <l>That when your lovely ſouls were hous'd below</l>
+                  <l>A brighter Sun in them did fix his rayes,</l>
+                  <l>Not for a Month alone, but all your days:</l>
+                  <pb n="39" facs="tcp:62456:20"/>
+                  <l>And now (though rap'd from hence) he hath lodg'd you where,</l>
+                  <l>Full of himſelf you ever may appear.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 2.</head>
+               <lg>
+                  <l>VVHen I inſcrib'd upon this day had read,</l>
+                  <l>The name of <hi>Jacob,</hi> I ſtraight fancied</l>
+                  <l>Some ſupplantation, like to what of old,</l>
+                  <l>Of the firſt <hi>Jacob</hi> Holy Writs have told.</l>
+                  <l>But here is no ſuch thing, our <hi>Jacob</hi> here,</l>
+                  <l>Doth not with holy <hi>Phillip</hi> intervere;</l>
+                  <l>Here are no ſuch contentions, neither feels,</l>
+                  <l>The others hand ſurprizing of his heels;</l>
+                  <l>Here is no ſtrife for birth-right mov'd, nor yet</l>
+                  <l>Which ſhall the Fathers happy bleſſing get.</l>
+                  <l>Both are content, and both indeed obtain</l>
+                  <l>That which the other Brothers ſought to gain,</l>
+                  <l>From one another with ſo much ado,</l>
+                  <l>Both have the birth-right, and the bleſſing too.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the two Phillips, the Apoſtle, and the Evangeliſt. <hi>Epig. 3.</hi>
+               </head>
+               <lg>
+                  <l>THe Macedonian <hi>Philips</hi> glorious name,</l>
+                  <l>His own, and Sons great actions do proclaim;</l>
+                  <l>The World yet rings thereof, and will do ſtill,</l>
+                  <l>While men ſhall uſe their tongues, or hold a quill:</l>
+                  <pb n="40" facs="tcp:62456:21"/>
+                  <l>Yet 'tis not all the Fields that Warrier won,</l>
+                  <l>Can match what our two <hi>Philips</hi> power hath done,</l>
+                  <l>Small narrow bounds his conqueſts did confine,</l>
+                  <l>Theirs ſtretch themſelves on either ſide the line,</l>
+                  <l>Even to the untrodden Poles: his power and ſway</l>
+                  <l>Is long ago expir'd and ſwept away</l>
+                  <l>By Times rude hand, of all the ſprouts that ſhot</l>
+                  <l>From that rich ſtem, one ſprig remaineth not</l>
+                  <l>To ſhade the earth, but by a wondrous fall,</l>
+                  <l>Are quite extinct, even root and branch and all.</l>
+                  <l>But from our <hi>Philips</hi> verdant ſtock, there ſtill</l>
+                  <l>Spring ſuch freſh boughs, as no keen froſts ſhal kill,</l>
+                  <l>Nor pruning hooks lop down, whilſt that bright pair</l>
+                  <l>Of Lamps, with ſplendid beams ſhall guild the air,</l>
+                  <l>Their fruit ſhall ſtill increaſe, and day by day,</l>
+                  <l>Wax ſtill more fair, and further from decay.</l>
+                  <l>So that hereafter when unerring Fame,</l>
+                  <l>Shall ſet true value on the <hi>Philips</hi> name,</l>
+                  <l>The other meaner acts ſhe ſhall decline,</l>
+                  <l>And t' ours alone, the names of <hi>Fair</hi> aſſign.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Regicipium, Or the Return of <hi>Charles</hi> the ſecond, being alſo his Birth-day. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>TWelve years black night our Royal Sun had hid</l>
+                  <l>'Twas long indeed the Stygian <hi>Nadir</hi> did</l>
+                  <l>From our ſad coaſts, his cheerful rayes detain,</l>
+                  <l>Whilſt we poor creatures ſcarce e're look'd again,</l>
+                  <pb n="41" facs="tcp:62456:21"/>
+                  <l>To ſee the Morning dawn, or one bright beam</l>
+                  <l>Of his, through our Horizons vaults to ſtream.</l>
+                  <l>But heavens be bleſt the long-wiſh'd day at laſt</l>
+                  <l>Is broke again, and thoſe thick clouds that caſt</l>
+                  <l>Such diſmal ſhades ore all this Iſlands frame,</l>
+                  <l>Are thruſt again to Hell from whence they came.</l>
+                  <l>Go happy <hi>Brittains,</hi> you whoſe eyes have done</l>
+                  <l>So long a pennance, greet your riſing Sun</l>
+                  <l>With more then <hi>Perſian</hi> adorations, they</l>
+                  <l>Wh'have felt ſuch darkneſs, well may prize their day.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>VVHat name great <hi>Charles</hi> ſhall this bleſt Iſle aſſign,</l>
+                  <l>To thoſe propitious heavenly beams of thine:</l>
+                  <l>
+                     <hi>Englands</hi> bright Sun ſhall we entitle thee,</l>
+                  <l>That name indeed would beſt of all agree</l>
+                  <l>To thine immenſe perfections, which ſuffice</l>
+                  <l>Alone to glad ſo many kingdome eyes.</l>
+                  <l>Only t'would make us fear that envious night,</l>
+                  <l>For all this, yet would rob us of thy ſight.</l>
+                  <l>And who can think of loſing ſuch a Sun,</l>
+                  <l>And not even mad with ſtartling horror run:</l>
+                  <l>Shall we then call thee our bright Arctick ſtar,</l>
+                  <l>She bears 'tis true thy name upon her carr,</l>
+                  <l>And which to us ſounds beſt, ne're ſets at all,</l>
+                  <l>But yet alas, her beams are weak and ſmall;</l>
+                  <pb n="42" facs="tcp:62456:22"/>
+                  <l>Like an obſcure Ruſh-candle's match'd with thine,</l>
+                  <l>Which clearer then the mid-days Chariot ſhine.</l>
+                  <l>What then remains, Dear Prince, but that we pray,</l>
+                  <l>That ſince thy luſtre, and our wiſhes may</l>
+                  <l>By neither of theſe Lamps diſ-joyn'd be ſhown,</l>
+                  <l>Their married Powers in thee may meet in one;</l>
+                  <l>That thou may'ſt ſhine like <hi>Sol</hi> when he diſplayes</l>
+                  <l>'Twixt <hi>Cancer's</hi> claws at noon his brighteſt rays;</l>
+                  <l>But like the Northern Bear may'ſt never ſleep,</l>
+                  <l>In <hi>Thetis</hi> watry covertures, but keep</l>
+                  <l>In thy full ſtrength, thy radiant Zenith ſtill,</l>
+                  <l>And with perpetual day theſe Kingdoms fill.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 3.</head>
+               <lg>
+                  <l>'TIs no ſmall honor theſe three Realms do pay,</l>
+                  <l>Of right great Prince, to this auſpicious day,</l>
+                  <l>Which brought thee firſt into the world, and gave</l>
+                  <l>Us hopes of thoſe rich fruits which now we have.</l>
+                  <l>This crown'd it much indeed; but 'tis far more</l>
+                  <l>Endear'd ſince that upon another ſcore,</l>
+                  <l>Thy glorious reſtitution, which was wrought</l>
+                  <l>This day almoſt beyond all humane thought;</l>
+                  <l>That was thy Birth, but this may well be ſed</l>
+                  <l>To be thy reſurrection from the dead,</l>
+                  <l>And ours indeed in thine, for all the while,</l>
+                  <l>That thou wert baniſh'd, death poſſeſs'd this Iſle,</l>
+                  <l>And we lay buried in thy loſſe, but when</l>
+                  <l>Thou once returnd'ſt, we all reviv'd agen</l>
+                  <pb n="43" facs="tcp:62456:22"/>
+                  <l>And breath'd new life, for which great mercies, we</l>
+                  <l>Muſt ever pay our thanks to it, and thee.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>June 1.</head>
+               <lg>
+                  <l>YOung men this Month is yours, your Country ſhows,</l>
+                  <l>What honor ſhe to ſpringing virtue owes.</l>
+                  <l>When as a pledge thereof, ſhe's proud to wear</l>
+                  <l>Your name, inſcrib'd upon her Calendar.</l>
+                  <l>Goodneſs at any time acceptance wins,</l>
+                  <l>But 'tis beſt priz'd when it in youth begins.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>The Feaſts of June 2.</head>
+               <lg>
+                  <l>THe 'leventh of <hi>June</hi> bright <hi>Barnabas</hi> obtains</l>
+                  <l>The twenty fourth the new-born <hi>Baptiſt</hi> gains.</l>
+                  <l>The nine and twentieth day apart is ſet,</l>
+                  <l>To him that firſt for Chriſt forſook his net.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Barnabas Apoſtle, <hi>upon</hi> Acts 11. 22. <hi>&amp;c. Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>SSee what an humble ſoul can yeeld to do,</l>
+                  <l>
+                     <hi>Barnabas</hi> by the Apoſtles ſent into</l>
+                  <l>An ample Province, to command and guide</l>
+                  <l>The Church of <hi>Antioch,</hi> freely doth divide,</l>
+                  <pb n="44" facs="tcp:62456:23"/>
+                  <l>His charge with <hi>Saul</hi> the convert, and is glad</l>
+                  <l>To have him ſhare in all the power he had.</l>
+                  <l>Good men for Chriſts behoof their intereſts wave,</l>
+                  <l>And are content to part with all they have;</l>
+                  <l>Let thy Church thrive (ſo they their prayers begin)</l>
+                  <l>And 'tis no matter who doth loſe or win.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Acts 11. 26. Epig. 2.</head>
+               <lg>
+                  <l>FRom <hi>Barnabas</hi> and <hi>Saul's</hi> advice, the Name</l>
+                  <l>Of Chriſtians firſt to Chriſts Diſciples came.</l>
+                  <l>They preach'd not for themſelves, and could not brook</l>
+                  <l>To ſee their hearers dote upon the look</l>
+                  <l>Or garbe of any earthly Miniſter,</l>
+                  <l>How great ſoever or polite he were.</l>
+                  <l>'Twas Chriſt that own'd the building, and 'twas fit</l>
+                  <l>They thought't ſhould bear his Name that pur<g ref="char:EOLhyphen"/>chas'd it.</l>
+                  <l>Chriſtians rejoyce in your great ſtile, to bear</l>
+                  <l>This title, is more glorious then to wear</l>
+                  <l>Imperial Crowns. But pay your thanks withall</l>
+                  <l>For this great grace to <hi>Barnabas</hi> and <hi>Saul.</hi>
+                  </l>
+                  <l>'Twas Chriſt indeed from whom your honour ſprung</l>
+                  <l>But through thoſe golden Pipes it paſs'd along.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Acts 15. 39. Epig. 3.</head>
+               <lg>
+                  <l>WHo would have thought that there could ever fall</l>
+                  <l>Such bitter ſtrifes 'twixt <hi>Barnabas &amp; Paul,</hi>
+                  </l>
+                  <pb n="45" facs="tcp:62456:23"/>
+                  <l>That they whoſe tongues ſo ſweetly did accord,</l>
+                  <l>In the confeſſion of one God, one Lord,</l>
+                  <l>One Spirit of grace, who one ſame hope enjoy'd,</l>
+                  <l>One Faith, one Baptiſm, that were both emploi'd</l>
+                  <l>In one ſame Function, and ſo long had ſtood,</l>
+                  <l>Twin-like conjoyned in one Brotherhood.</l>
+                  <l>That they ſhould jarr, and jarr fo ſharply too,</l>
+                  <l>That they muſt part; oh this is ſad to view,</l>
+                  <l>Good Lord, how looſe are mens affections tide,</l>
+                  <l>Whom every trivial difference can divide;</l>
+                  <l>Our comfort is when once w'are knit to thee.</l>
+                  <l>That bond no time ſhall ever cancel'd ſee.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>John the Baptiſt. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>JOhn</hi> was that voice that in the Deſart cryed,</l>
+                  <l>All <hi>Judah</hi> heard it, and was terrified;</l>
+                  <l>And who will wonder if they ſhook with fear,</l>
+                  <l>When they ſuch ſhrill and dreadfull ſounds did hear.</l>
+                  <l>All I admire's how this to paſs ſhould come,</l>
+                  <l>That he ſhould get this Cryer that was dumbe.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 2.</head>
+               <lg>
+                  <l>
+                     <hi>ENoch</hi> that walk'd with God, and <hi>Abraham,</hi>
+                  </l>
+                  <l>His choſen friend, to whom the promiſe came;</l>
+                  <l>
+                     <hi>Moſes</hi> the Steward of his houſe, and he</l>
+                  <l>That up to heaven on fiery Steeds did flee.</l>
+                  <pb n="46" facs="tcp:62456:24"/>
+                  <l>Theſe doubtleſs had great viſions, and deſcried</l>
+                  <l>More of their God, then all thoſe times beſide,</l>
+                  <l>Yet 'twas not all thoſe Saints, nor any one</l>
+                  <l>Before or after equaliz'd our <hi>John;</hi>
+                  </l>
+                  <l>Who had the honour at one time to hear</l>
+                  <l>The Father ſpeak, and ſee the Spirit appear;</l>
+                  <l>And with his hands unworthy to baptize,</l>
+                  <l>The Son that in the Fathers boſome lies.</l>
+                  <l>Great <hi>John</hi> well did thy Saviours tongue proclaim</l>
+                  <l>That amongſt all that out of women came,</l>
+                  <l>Like thee there was no Prophet who alone,</l>
+                  <l>Diſtinctly ſav'ſt at once the three in one.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 3.</head>
+               <lg>
+                  <l>BEhold here! how the great high Prieſt doth ſtand</l>
+                  <l>To be baptized by his ſervants hand:</l>
+                  <l>And fear oh man how thou thoſe ſeals refuſe,</l>
+                  <l>Which Chriſt thy Lord himſelf rejoyc'd to uſe;</l>
+                  <l>And whatſoe're the frail diſpenſer be,</l>
+                  <l>Remember <hi>John</hi> had ſins as well as he.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Peter Apoſtle. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>PEter</hi> the rock that whilome ſtood ſo ſure,</l>
+                  <l>That he (unmov'd) was able to endure</l>
+                  <l>The blaſts of Hell it ſelf, now down is thrown</l>
+                  <l>By a poor Damſels feeble breath alone:</l>
+                  <pb n="47" facs="tcp:62456:24"/>
+                  <l>Lord what is man? if thou withdraw thy hand,</l>
+                  <l>When ſuch firm rocks as <hi>Peter</hi> cannot ſtand.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Luke 22. 61. Epig. 2.</head>
+               <lg>
+                  <l>SAthan now thought that he had given ſo ſore</l>
+                  <l>A wound to <hi>Peter,</hi> that he never more,</l>
+                  <l>Should raiſe again his bruiſed head, but lie</l>
+                  <l>Weltering for ever in his blood, and die.</l>
+                  <l>And who indeed that heard our <hi>Peter</hi> ſwear</l>
+                  <l>And curſe, if ere he knew who Jeſus were,</l>
+                  <l>Would think there could be any hope of cure,</l>
+                  <l>For ſuch a deſperate deadly Calenture.</l>
+                  <l>But ſee poor ſinners what a power there lies,</l>
+                  <l>In your relenting Saviours gracious eyes;</l>
+                  <l>When he no ſooner caſts a pittying look,</l>
+                  <l>On wretched <hi>Peter,</hi> whom all life forſook;</l>
+                  <l>But he revives again, and with his tears</l>
+                  <l>Gives proof, that yet ſome hope of grace appears.</l>
+                  <l>Lord if thine eyes have ſuch a power indeed,</l>
+                  <l>Where-ere they look, repentant tears to breed;</l>
+                  <l>Oh look on me, that I who have ſin'd as deep,</l>
+                  <l>As <hi>Peter</hi> did, may go with him and weep.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Mark 14. 72. Epig. 3.</head>
+               <lg>
+                  <l>T'Was thought of old, the Cocks ſhril voice did make,</l>
+                  <l>The Princely Lions warlike heart to ſhake;</l>
+                  <pb n="48" facs="tcp:62456:25"/>
+                  <l>But this I'me ſure not all the Fiends in Hell</l>
+                  <l>Conſpiring, could have rung ſo ſad a knell</l>
+                  <l>In <hi>Peters</hi> ears, as this Cocks voice did do,</l>
+                  <l>When now the ſecond time he loudly crew;</l>
+                  <l>But fear not <hi>Peter,</hi> 'twas ſweet Chanticleer,</l>
+                  <l>No Screetch-Owl this thy troubled ears did hear;</l>
+                  <l>Or rather indeed 'twas thy griev'd Lord that ſpake</l>
+                  <l>By this Birds tongue, and cry'd awake, awake;</l>
+                  <l>It is enough, thou'ſt thrice deny'd my name,</l>
+                  <l>
+                     <hi>Peter</hi> awake, and ſin no more for ſhame.</l>
+                  <l>Return to him that loves thee ſo, that he</l>
+                  <l>For all this yet is gone to die for thee:</l>
+                  <l>Thus crow'd the Cock, thou heardſt and ſtrait didſt riſe,</l>
+                  <l>And back return'dſt, poor ſoul, with weeping eyes;</l>
+                  <l>O God, that when we hear him crow, we knew</l>
+                  <l>But how to take ſuch hints, and do ſo too.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>July I.</head>
+               <lg>
+                  <l>FRom five this Month ſometimes deriv'd its name,</l>
+                  <l>Which now great <hi>Julius</hi> doth more juſtly claim;</l>
+                  <l>'Twas he indeed new form'd the year, and gave</l>
+                  <l>The Months thoſe meaſur'd portions which they have;</l>
+                  <l>And 'twas but fit the Father of them all,</l>
+                  <l>One child in twelve by his own name ſhould call;</l>
+                  <l>Heathens all yeeld, great Prince, it ſhould be ſo,</l>
+                  <l>Who to thy pains their perfect <hi>Aera's</hi> owe:</l>
+                  <pb n="49" facs="tcp:62456:25"/>
+                  <l>We Chriſtians grant it too; who by thy aid</l>
+                  <l>More punctual in our years of Chriſt are made.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>The Feasts of <hi>July.</hi>
+               </head>
+               <lg>
+                  <l>SAd <hi>Maudlin, July</hi>'s two and twenti'th claims,</l>
+                  <l>The twenty fift's aſſign'd to greater <hi>James.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Mary Magdalene <hi>Epig. I.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>MAry</hi> when I thy former ſtate recall,</l>
+                  <l>What ſins, what Devils thou here wert fill'd withall,</l>
+                  <l>Yet ſee thee now all brightly cloathed ſit,</l>
+                  <l>At thy beloved Saviours glorious feet.</l>
+                  <l>I cannot but admire that bounteous grace,</l>
+                  <l>That takes ſuch ſinners to ſo ſweet a place;</l>
+                  <l>Yet when I think what floods of tears below</l>
+                  <l>From thine even almoſt drowned eyes did flow,</l>
+                  <l>How oft thou bath'dſt thy Saviours feet and then</l>
+                  <l>With thy torn locks didſt wipe them dry agen;</l>
+                  <l>I ſhould have wondred if that place had bin</l>
+                  <l>Too good for ſuch a ſoul t'have lodged in<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Tears mixt with faith ſuch power in heaven do bear,</l>
+                  <l>That they can place the greateſt ſinners there.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="50" facs="tcp:62456:26"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon John 20. 13. <hi>Epig. 2.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>MAry</hi> her buried Lord (ſhe thought) had loſt,</l>
+                  <l>Yet ſee how dear this ſmall adventure coſt</l>
+                  <l>Her tender heart; mark how ſhe wept and prai'd</l>
+                  <l>To know but where her breathleſs Chriſt was laid;</l>
+                  <l>But thou my ſenceleſſe ſoul: Oh dreadfull word!</l>
+                  <l>Canſt looſe the preſence of thy glorious Lord</l>
+                  <l>Days without number; yet ſcarce find a tear</l>
+                  <l>To witneſſe that thou once didſt hold him dear.</l>
+                  <l>Ah my vile heart, if thou thy Chriſt didſt prize,</l>
+                  <l>As <hi>Mary</hi> did, thou wouldſt have <hi>Maries</hi> eyes.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Mark 16. 9. <hi>and</hi> John 20. 17. Epig. 3.</head>
+               <lg>
+                  <l>SEe here what links of comfort meet to crown</l>
+                  <l>Her drooping head, who but even now powr'd down</l>
+                  <l>Such ſtreams of tears, no mortall eye muſt ſee</l>
+                  <l>Their raiſed Lord, till firſt his <hi>Mary</hi> be</l>
+                  <l>Bleſt with the Viſion, till thoſe eyes that wept</l>
+                  <l>So much for grief, as much for joy have leap'd;</l>
+                  <l>Nor is't enough to feaſt her eyes alone</l>
+                  <l>With this glad ſight, hee'l uſe her lips upon</l>
+                  <l>A glorious Meſſage to his Brethren, ſhe</l>
+                  <l>Shall an Apoſtle to the Apoſtles be;</l>
+                  <pb n="51" facs="tcp:62456:26"/>
+                  <l>Themſelves he means ſhall ſee the truth ere long,</l>
+                  <l>But they ſhall owe it firſt unto her tongue;</l>
+                  <l>So carefull is our gracious Lord that thoſe,</l>
+                  <l>That mourn for him ſhall not by mourning loſe.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>James Apoſtle, <g ref="char:V">Ʋ</g>pon</hi> Acts 12. 2. <hi>cum</hi> Mat. 20. 21. Epig. 1.</head>
+               <lg>
+                  <l>GReat <hi>James</hi> the firſt of all the twelve I think,</l>
+                  <l>Thou of thy Saviours bloody cup didſt drink,</l>
+                  <l>But grieve not at it: 'Twas the readieſt way</l>
+                  <l>To gain that room for which thou once didſt pray,</l>
+                  <l>Who holds it now, let bolder tongues report,</l>
+                  <l>This onel' I know, thou didſt bid fairly for't.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> James <hi>and</hi> John <hi>the two ſons of</hi> Zebedee. Epig. 2.</head>
+               <lg>
+                  <l>GOod God what odds 'twixt theſe two bre<g ref="char:EOLhyphen"/>thren lyes,</l>
+                  <l>This firſt, that laſt of all the Apoſtles dies,</l>
+                  <l>This an untimely bloody death abides,</l>
+                  <l>That in a gentle quiet ſlumber glides</l>
+                  <l>Out of the world (if he at all be gone</l>
+                  <l>From hence, and muſt not riſe again anon.)</l>
+                  <l>Both ſued indeed (mov'd with a like unfit</l>
+                  <l>Ambition) on their Lords two hands to fit</l>
+                  <l>And undertook in lieu thereof, to ſup</l>
+                  <l>Their parts with him of his unpleaſant cup:</l>
+                  <pb n="52" facs="tcp:62456:27"/>
+                  <l>This had a ſhare, but that for reaſons beſt</l>
+                  <l>Known to his Lord's reſerv'd for longer reſt:</l>
+                  <l>How little is it, Lord, that we can know</l>
+                  <l>Of men? by what betides them here below:</l>
+                  <l>Some die for Chriſt, and thoſe that do not ſo,</l>
+                  <l>Are oft as dear to him as thoſe that do;</l>
+                  <l>To will to die for him, though't do not come</l>
+                  <l>To paſs, in his account is Martyrdome.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon both the <hi>Jameſes. Epigr. 2.</hi>
+               </head>
+               <lg>
+                  <l>NEither of the <hi>Jameſes</hi> ever was in <hi>Spain,</hi>
+                  </l>
+                  <l>They had their tasks elſewhere, that did detain</l>
+                  <l>Their pains and perſons: <hi>Paul</hi> indeed we know</l>
+                  <l>Had a deſign into thoſe parts to go,</l>
+                  <l>Which if he did not execute the blame</l>
+                  <l>If any, from his troubles onely came,</l>
+                  <l>Which kept him back, not from his changed mind,</l>
+                  <l>Which firmly ſtill to ſerve them was enclin'd,</l>
+                  <l>Yet how it comes to paſſe I cannot tell,</l>
+                  <l>But <hi>Paul</hi> that had deſerv'd of them ſo well,</l>
+                  <l>Is laid aſide, and <hi>James</hi> receiv'd alone</l>
+                  <l>To be the Patron of that Nation;</l>
+                  <l>Yea not content with this, through blinded zeal,</l>
+                  <l>In points of Faith; from <hi>Paul</hi> they do appeal</l>
+                  <l>To <hi>James</hi> his doctrine, as if heaven's had made</l>
+                  <l>Him to be judge of what the other ſaid:</l>
+                  <l>And that his purer Comments muſt give light,</l>
+                  <l>To thoſe more doubtful texts that <hi>Paul</hi> did write.</l>
+                  <pb n="53" facs="tcp:62456:27"/>
+                  <l>But fools they one day to their coſt ſhall know,</l>
+                  <l>That one ſame Spirit in both their pens did flow:</l>
+                  <l>And that theſe wretches that diſhonour <hi>Paul,</hi>
+                  </l>
+                  <l>Shall that day find no friend of <hi>James</hi> at all.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Auguſt 1.</head>
+               <lg>
+                  <l>
+                     <hi>A<g ref="char:V">Ʋ</g>guſtus</hi> name, this Month inſcrib'd doth bear,</l>
+                  <l>A name that ſtill is ſweet to every ear;</l>
+                  <l>Sweet for the peace he gave the world, for though</l>
+                  <l>At his firſt entrance, Seas of Blood did flow</l>
+                  <l>Ore all the earth, he ſtopp'd the deadly ſpring,</l>
+                  <l>And golden reſt into all lands did bring;</l>
+                  <l>But that which made him moſt unparallel'd</l>
+                  <l>Is that his reign, the Prince of peace beheld.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>The Feaſts of <hi>Auguſt 2.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>A<g ref="char:V">Ʋ</g>guſt</hi> the twenty fourth to <hi>Bart'lemew,</hi>
+                  </l>
+                  <l>The twenty ninth's the headleſs <hi>Baptiſts</hi> due.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Bartholomew Apoſtle, <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>HOw is it Lord, that there's no mention made</l>
+                  <l>In all thy book, of what was done or ſaid</l>
+                  <l>By this thy great Apoſtle? other men</l>
+                  <l>Of meaner rank, and gifts, thy ſacred Pen</l>
+                  <pb n="54" facs="tcp:62456:28"/>
+                  <l>Finds time to ſpeak of, but of him alas!</l>
+                  <l>There doth not one bare word diſtinctly paſſe,</l>
+                  <l>Was it to teach us, that thoſe Tapers are</l>
+                  <l>Not ever of moſt worth, that brighteſt glare,</l>
+                  <l>That deep-fraught ſouls lie always ſnug and low,</l>
+                  <l>Whilſt empty hulks loom big, and lofty ſhow;</l>
+                  <l>Or is't enough that thou haſt let us ſee</l>
+                  <l>A proof in ſome, of what the others be;</l>
+                  <l>Men bring not all their wares to open teſt,</l>
+                  <l>A few found right, give credit to the reſt:</l>
+                  <l>Lord we ſubmit, and by the things we hear</l>
+                  <l>Of <hi>Peter</hi> judge, what all his brethren were.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Luke 22. 29, 30. Epig. 2.</head>
+               <lg>
+                  <l>IT is not much great <hi>Bart'lemew</hi> indeed,</l>
+                  <l>That of thy works and labours we do read,</l>
+                  <l>But this we from thy Lords own mouth do find</l>
+                  <l>That thou a Throne and Kingdom hadſt aſſign'd,</l>
+                  <l>As well as <hi>John</hi> and <hi>Peter</hi> had whoſe pains,</l>
+                  <l>The holy Text ſo punctually explains;</l>
+                  <l>And who will think that ſervants labors came</l>
+                  <l>Short of his Mates, whoſe wages is the ſame.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Acts 5. 12. Epig. 3.</head>
+               <lg>
+                  <l>INto the Temples Porch the twelve withdrew,</l>
+                  <l>And thou amongſt the reſt great <hi>Bart'lemew;</hi>
+                  </l>
+                  <pb n="55" facs="tcp:62456:28"/>
+                  <l>There you all preach, and work ſuch mighty things</l>
+                  <l>As no man elſe dare think of equalling;</l>
+                  <l>What thou diſtinctly doſt, I do not hear,</l>
+                  <l>But of one ſtamp, 'tis ſure your actions were</l>
+                  <l>So great and glorious, as did juſtly ſtrike,</l>
+                  <l>A fear in all men to attempt the like;</l>
+                  <l>Some ſouls thou winſt, I doubt not too, for who</l>
+                  <l>Can think ſuch gracious words in vain did flow</l>
+                  <l>From thy bleſt lips; as yet indeed they be</l>
+                  <l>But like the windfall's to the loaden tree:</l>
+                  <l>Thy work lies further off, where heavens intend,</l>
+                  <l>Whole Nations to thy powerful voice ſhall bend.</l>
+                  <l>The Circumciſion's <hi>Peters</hi> charge, but thine</l>
+                  <l>God knows how many Regions ſhall confine.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>John Baptiſt</hi> beheaded. Epig. 1.</head>
+               <lg>
+                  <l>YOu that for love of outward peace or gain,</l>
+                  <l>From preaching all the truths of Chriſt refrain,</l>
+                  <l>That dare not touch the times, nor lance the ſore,</l>
+                  <l>Of States and Courts, which ranks more and more;</l>
+                  <l>That ſee the great ones run themſelves to Hell,</l>
+                  <l>And damn their ſouls with ſins too palpable:</l>
+                  <l>Yet you ſtand dumb the while, and will not go</l>
+                  <l>And tell them to their faces what they do.</l>
+                  <l>Look on our <hi>John,</hi> if he this path had trod,</l>
+                  <l>He might have kept his head, but wrong'd his God.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="56" facs="tcp:62456:29"/>
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Mat. 14. 9. Epigr. 2.</head>
+               <lg>
+                  <l>
+                     <hi>HErod</hi> hath ſworn, and <hi>John</hi> muſt loſe his head,</l>
+                  <l>A poor man would be loth to have it ſed,</l>
+                  <l>That he had broke his Oath, but Kings muſt ſtand,</l>
+                  <l>Upon their honour here at any hand;</l>
+                  <l>But who, blind Tyrant, bad thee ſwear at all?</l>
+                  <l>Wiſe men would weigh what miſchiefs may befall,</l>
+                  <l>Before they ventur'd on ſo raſh a vow,</l>
+                  <l>Which if it muſt be kept, thy children now</l>
+                  <l>And Mothers throats are not ſecure; nor ought</l>
+                  <l>So vile, but if ſhe liſts, it muſt be wrought;</l>
+                  <l>But plead not Conſcience, he that daily lies</l>
+                  <l>In luſtful ſheets, will ſwallow perjuries:</l>
+                  <l>Revenge the Prophet firſt in priſon threw,</l>
+                  <l>Whom now vain-glory and indulgence ſlew.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Mar. 6. 2. Epig. 3.</head>
+               <lg>
+                  <l>BAte <hi>Herod</hi> but his inceſt, and there's none</l>
+                  <l>Will be a greater follower of <hi>John;</hi>
+                  </l>
+                  <l>He hears him gladly, and obſerves him too,</l>
+                  <l>And many things accordingly doth do</l>
+                  <l>But here he ſticks; with this he cannot part,</l>
+                  <l>Hypocrites will have ſomething neer their heart;</l>
+                  <l>Some luſt or other which they prize before</l>
+                  <l>Their ſouls, and him whom all good ſouls adore.</l>
+                  <pb n="57" facs="tcp:62456:29"/>
+                  <l>What profit is't, my Saviour, to have gone</l>
+                  <l>Half way with <hi>Herod</hi> in Religion<g ref="char:punc">▪</g>
+                  </l>
+                  <l>To be near heaven, as that poor Lawyer was,</l>
+                  <l>If I ſtay there, and do no further paſs;</l>
+                  <l>Oh root out every ſin which I poſſeſs,</l>
+                  <l>Or 'tis but vain to think of happineſs.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>September 1.</head>
+               <lg>
+                  <l>NAme not this Month, but let your thoughts withall</l>
+                  <l>Thoſe old <hi>Moſaick</hi> myſteries recall,</l>
+                  <l>Which in this ſacred number couched lie,</l>
+                  <l>And chalenge from us a ſolemnity.</l>
+                  <l>Seven in a Chriſtians mouth ſhould never come,</l>
+                  <l>But his quick ſoul ſhould run ore all the ſum;</l>
+                  <l>Rehearſe a ſhort couch'd Catalogue by rote</l>
+                  <l>Of all the ſevens which Holy Writ doth note.</l>
+                  <l>Every ſmall hint and word ſuggeſted, brings</l>
+                  <l>A godly man in mind of heavenly things.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>The Feaſts of September 2.</head>
+               <lg>
+                  <l>
+                     <hi>SEptember</hi>'s twenty firſt is <hi>Matthew</hi>'s right,</l>
+                  <l>Great <hi>Michael</hi> doth in twenty nine delight.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="58" facs="tcp:62456:30"/>
+               <head>Matthew <hi>Apoſtle.</hi> Epig. 1.</head>
+               <lg>
+                  <l>YOu'l ſay Exciſe men ſeldome come to good,</l>
+                  <l>Who by extortions gaine their lively-hood<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Yet ſee what Chriſt can do, our <hi>Matthew</hi> here</l>
+                  <l>Was ſuch a one, yet's ſaved I do not fear.</l>
+                  <l>Let none condemn th' employment, mercy can</l>
+                  <l>Of ſuch a Vermine make an honeſt man.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>OF all the Goſpels, <hi>Matthew</hi>'s onely writ</l>
+                  <l>In the Hebrew tongue, as if he purpos'd it</l>
+                  <l>Meerely to ſave that Nation, whom before</l>
+                  <l>With harſh exactions he had poll'd ſo ſore.</l>
+                  <l>And 'twas a large amends we grant indeed,</l>
+                  <l>For Earthly chaff, to give them heavenly ſeed.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 3.</head>
+               <lg>
+                  <l>GOod God what change is here! our <hi>Matthew</hi> that</l>
+                  <l>Erewhile at the receipt of Cuſtome ſate,</l>
+                  <l>And was ſo vile a wretch, that none, except</l>
+                  <l>The Divel himſelf, a worſer Conſcience kept;</l>
+                  <l>Is now become a Saint, yea counted fit</l>
+                  <l>In one of the Apoſtolick chaires to ſit.</l>
+                  <pb n="59" facs="tcp:62456:30"/>
+                  <l>Nor ſtayes he at this height, but firſt of men</l>
+                  <l>Is choſe his Saviours life and death to pen:</l>
+                  <l>Which he diſcharg'd ſo well, that now they fear</l>
+                  <l>Not to affirme an Angels hand did bear</l>
+                  <l>A part in the employment, as if none</l>
+                  <l>Of humane race could write ſuch things alone;</l>
+                  <l>So ſoon he paſt through both extreams, of late</l>
+                  <l>Almoſt a Devil, and now an Angels Mate.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Michael <hi>Archangel.</hi> Epig, 1.</head>
+               <lg>
+                  <l>AT <hi>Moſes</hi> Barre if ſinful men were try'd,</l>
+                  <l>No fleſh alive would ere be juſtified.</l>
+                  <l>But him in mercy God hath lay'd ſo low,</l>
+                  <l>That Devils themſelves his burial do not know.</l>
+                  <l>They ſtrive indeed to find it out, and faine</l>
+                  <l>Would bring him from his putrid Urne again</l>
+                  <l>To judge the World; if they might have their will,</l>
+                  <l>
+                     <hi>Moſes</hi> ſhould live, and Chriſt be buried ſtill.</l>
+                  <l>But our Archangels powerful hand alone</l>
+                  <l>Nulls all their ſearch, and keeps his grave un<g ref="char:EOLhyphen"/>known</l>
+                  <l>Even ſo, great Prince, let him ſtill buriedly,</l>
+                  <l>For if he riſe, the whole wide world muſt dy.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="60" facs="tcp:62456:31" rendition="simple:additions"/>
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>
+                     <hi>Ad Schiſmaticos, quod</hi> Michael <hi>non ſit Chriſtus.</hi>
+                  </l>
+                  <l>TIs no created Angel this, you ſay,</l>
+                  <l>But Chriſt the Lord, whom holy Church to day</l>
+                  <l>Honors for that great combat which of old</l>
+                  <l>He with the Divel 'bout <hi>Moſes</hi> corps did hold:</l>
+                  <l>But tell us then what were thoſe men the while</l>
+                  <l>That ſay he durſt not that foul fiend revile?</l>
+                  <l>What is't that great Meſſias durſt not do,</l>
+                  <l>Who made the Devils and ſhal condemn them too?</l>
+                  <l>Or whom doth God with his bleſt Spirit infuſe,</l>
+                  <l>That ſuch harſh words of Chriſt their Lord will uſe?</l>
+                  <l>Chooſe which you'l hold, or 'twas a Creature this,</l>
+                  <l>Or what th<g ref="char:punc">▪</g> Apoſtles wrote were Blaſphemies.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 3. <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Revelat. cap. 12.</head>
+               <lg>
+                  <l>DIvels have their Prince, and ſo have Angels too,</l>
+                  <l>Monarchick power all creatures yield unto:</l>
+                  <l>Theſe fought in heaven, this with deſire to teare</l>
+                  <l>The woman thence, but that to keep her there:</l>
+                  <l>But reſt poor Creature with thy Babe ſecure,</l>
+                  <l>The Dragon is not able to endure</l>
+                  <l>Thy <hi>Michaels</hi> ſtrength, whom God hath arm'd to be</l>
+                  <pb n="61" facs="tcp:62456:31"/>
+                  <l>A Prince, and Guardian to thy ſeed and thee:</l>
+                  <l>Reſt happy Church, and though this Serpents tail</l>
+                  <l>Over almoſt half the ſtarres of heaven prevail</l>
+                  <l>To throw them down, yet be not thou affright,</l>
+                  <l>For whoſe defence ſuch hoſts of Angels fight.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>October 1.</head>
+               <lg>
+                  <l>EIght is the Goſpels number, on this day</l>
+                  <l>Our buried Lord triumphing, broke away</l>
+                  <l>From Death's ſtrong holds, whom ſhe ſuppos'd ſh'had ty'd</l>
+                  <l>There faſt enough for ever to abide.</l>
+                  <l>That day, till he aſcended hence, he ſtill</l>
+                  <l>Met, and inform'd his Brethren with what skill,</l>
+                  <l>They in and out before his Church ſhould go.</l>
+                  <l>That day his Spirit in ſtreams of fire did flow</l>
+                  <l>Into the Apoſtles boſomes, and between</l>
+                  <l>Their knees, to ſit like cloven tongues, was ſeen.</l>
+                  <l>That day the Lord for all his Churches weal</l>
+                  <l>To his belov'd Diſciple did reveal,</l>
+                  <l>In <hi>Pathmos</hi> Iſle, a gracious ſight of all</l>
+                  <l>Thoſe changes which hereafter muſt befall</l>
+                  <l>His wearied Spouſe, till She at laſt do come</l>
+                  <l>To<g ref="char:punc">▪</g> feaſt it with him in the wedding room.</l>
+                  <l>In memory of all which things, his will</l>
+                  <l>Is, that this Eight day ſhall be honored ſtill</l>
+                  <l>Throughout the world, till he us all remove</l>
+                  <l>To keep an everlaſting Eight above.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="62" facs="tcp:62456:32"/>
+               <head>The Feaſts of <hi>October 2.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>OCtober</hi>'s eighteenth day on <hi>Luke</hi> doth wait:</l>
+                  <l>
+                     <hi>Simon</hi> and <hi>Jude</hi> are pleas'd with twenty eight.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Luke Evangeliſt. <hi>Epigr. 1.</hi>
+               </head>
+               <lg>
+                  <l>THat you may ſee that <hi>Galen</hi>'s Pupills are</l>
+                  <l>Not all ſuch Atheiſts as reports declare;</l>
+                  <l>Reade thoſe two books that <hi>Luke</hi>'s ſweet hand did pen,</l>
+                  <l>In this the Acts of God, in that of men:</l>
+                  <l>And tell me whether the Church ere had a man</l>
+                  <l>That wrote more truths then our Phyſitian:</l>
+                  <l>To theſe, if you demand my Faith, I flie,</l>
+                  <l>And ſay here's my <hi>Religio Medici.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 2.</head>
+               <lg>
+                  <l>
+                     <hi>L<g ref="char:V">Ʋ</g>ke</hi> the belov'd Phyſitian's ſtyl'd a name,</l>
+                  <l>At which would God our Tribe did chiefly aime:</l>
+                  <l>Let others ſcrape for wealth, but let us be</l>
+                  <l>Deſervedly belov'd as well as he:</l>
+                  <l>Let us ſtill wait upon our Patients ſide,</l>
+                  <l>Take ſuch account of all things that betide</l>
+                  <pb n="63" facs="tcp:62456:32"/>
+                  <l>Their ſleeps, their wakings, coolings, heats, and all</l>
+                  <l>Thoſe very nauſeous excrements that fall,</l>
+                  <l>Bear all their wayward moods, ſpeak ſtill ſo fair,</l>
+                  <l>Give ſuch good words, as may remove deſpair</l>
+                  <l>From their ſad thoughts, which kills as much or more</l>
+                  <l>Then all their ſickneſs; caſt in ſtill ſuch ſtore</l>
+                  <l>Of ſeaſonable advice, as may diſpoſe</l>
+                  <l>Them for a better life then that they loſe.</l>
+                  <l>Yet ever be at hand to recommend</l>
+                  <l>Such congruous medicines as through Grace may tend</l>
+                  <l>To their recovery, that when all is done,</l>
+                  <l>We may get love, though little elſe be wonne.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 3.</head>
+               <lg>
+                  <l>ANd why great <hi>Luke</hi> did Ancient times aſſigne</l>
+                  <l>An Oxes form to ſuch a ſoul as thine;</l>
+                  <l>A ſoul that breathes ſuch heavenly ſtreynes, as well</l>
+                  <l>Might fit an Angell's glorious tongue to tell:</l>
+                  <l>Was it becauſe thy holy book begins</l>
+                  <l>With a relation of thoſe offerings;</l>
+                  <l>Which in <hi>Abrah</hi>'s courſe were now to be</l>
+                  <l>Perform'd by old religious <hi>Zachary?</hi>
+                  </l>
+                  <l>Or was 't becauſe thou more then all the reſt</l>
+                  <l>Thy Saviours doleful Paſſion haſt expreſt,</l>
+                  <l>Who like an Oxe was to the ſlaughter led,</l>
+                  <l>And di'd to ranſome ſinners that were dead?</l>
+                  <l>Or was't thy ſelf and not thy books that were</l>
+                  <pb n="64" facs="tcp:62456:33"/>
+                  <l>Decipher'd by this Oxes character;</l>
+                  <l>The Oxe we know doth fitly repreſent</l>
+                  <l>The lab'ring Paſtor in his government;</l>
+                  <l>And this apt embleme truly could not be</l>
+                  <l>Referr'd to any better then to thee;</l>
+                  <l>Thy feet trod out much corn for us indeed,</l>
+                  <l>On which God grant our ſouls may gladly feed.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Simon and Jude Apoſtles. <hi>Epigr. 1.</hi>
+               </head>
+               <lg>
+                  <l>THe name imports not much, the good and bad</l>
+                  <l>Have oftentimes the ſelf ſame title had.</l>
+                  <l>The Sorcerer and <hi>Cephas</hi> both did bear</l>
+                  <l>The name of <hi>Simon,</hi> yet was <hi>Peter</hi> nere</l>
+                  <l>The worſer thought of for vile <hi>Magus</hi> ſake,</l>
+                  <l>Nor do accurſt <hi>Iſcariots</hi> treaſons make</l>
+                  <l>
+                     <hi>Thaddeus, James</hi> his Brother, lov'd the leſs</l>
+                  <l>Becauſe they both were called <hi>Judaſſes.</hi>
+                  </l>
+                  <l>Good names do well indeed, and yet we ſee</l>
+                  <l>That names and things do often diſagree.</l>
+                  <l>
+                     <hi>Eve</hi> call'd her firſt born <hi>Cain</hi> as hoping well</l>
+                  <l>He might have prov'd that man that was to quell</l>
+                  <l>The Serpent's rage, but he alas became</l>
+                  <l>His Brother's Butcher, and his Parents ſhame.</l>
+                  <l>Lord give me that new name, the which alone</l>
+                  <l>'Tis ſure was never given in vain to none.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="65" facs="tcp:62456:33"/>
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon Simon the Canaanite,</hi> Matt. 10. 4. <hi>&amp;</hi> Mar. 3. 18. Epigr. 2.</head>
+               <lg>
+                  <l>FRom <hi>Canaan</hi>'s curſed ſtock ſome good doth flow,</l>
+                  <l>Even Chriſt himſelf to <hi>Rahab</hi>'s loyns doth ow</l>
+                  <l>The fleſh he took, and ſhe who begg'd a crum</l>
+                  <l>Fallen from his board, from that vile race did come.</l>
+                  <l>You need not therefore wonder at the ſight</l>
+                  <l>If 'mongſt the twelve you find a <hi>Canaanite.</hi>
+                  </l>
+                  <l>The gifts of Grace are free, beſtow'd alike</l>
+                  <l>Upon the <hi>Jew,</hi> and alſo on the <hi>Greek:</hi>
+                  </l>
+                  <l>The Spirit breathes where 't liſt, that none may vaunt</l>
+                  <l>Of too much plenty, nor deſpair for want.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Simon Zelotes, <hi>Epig.</hi> 3.</head>
+               <lg>
+                  <l>THe <hi>Canaanite</hi> receiv'd into the train</l>
+                  <l>Of Chriſt, <hi>Zelotes</hi> name doth quickly gain,</l>
+                  <l>From that great zeal no doubt which he expreſs'd,</l>
+                  <l>Unto his new choſe Maſters intereſt:</l>
+                  <l>And to ſay truth, it is not ſeldome ſeen</l>
+                  <l>That thoſe ſtrange branches, which are grafted in,</l>
+                  <l>Bring forth more plenteous, and more lovely fruit,</l>
+                  <l>Then thoſe which nature thruſteth from the root,</l>
+                  <l>'Tis ſad indeed it ſhould be thus, that they</l>
+                  <l>Who came into Chriſts School but yeſterday,</l>
+                  <pb n="66" facs="tcp:62456:34"/>
+                  <l>Should outſtrip thoſe, who many years before</l>
+                  <l>Did put their ſluggiſh feet within his dore.</l>
+                  <l>Yet thus my God, with my poor Soul it ſtands,</l>
+                  <l>Thoſe that but now did put their labo'ring hands</l>
+                  <l>Unto thy Plough, have rid more work away</l>
+                  <l>Then I that here have pingled many a day.</l>
+                  <l>I grudge not, Lord, at what theſe Zealots do,</l>
+                  <l>May they ſtill thrive in Grace, and adde unto</l>
+                  <l>The fire they have for thee, all that I pray</l>
+                  <l>Is that thou make me burne as well as they.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>November. 1.</head>
+               <l>THe Muſes here put in their claime, and cry,</l>
+               <l>That this of right is their Feſtivity.</l>
+               <l>That, I am bound this Month in every line</l>
+               <l>To Eccho forth the honor of the Nine.</l>
+               <l>But they muſt pardon me, theſe ſacred Layes</l>
+               <l>Do own no influence but <hi>
+                     <g ref="char:V">Ʋ</g>rania's.</hi>
+               </l>
+               <l>They know no Nines, ſave ſuch as couched be</l>
+               <l>In the Thrice-great, Thrice-holy Trinity.</l>
+               <l>Th' are all my Muſes, from their bounteous Throne</l>
+               <l>My Artleſs quill derives her ayd alone.</l>
+            </div>
+            <div type="epigram">
+               <head>November <hi>his Feaſts.</hi>
+               </head>
+               <lg>
+                  <l>ALL Saints unto <hi>Novembers</hi> firſt repair;</l>
+                  <l>The fift, the Powder-Plots diſcovered are;</l>
+                  <pb n="67" facs="tcp:62456:34"/>
+                  <l>The thirtieth is to that bleſt Saint applyed,</l>
+                  <l>Whom <hi>John</hi> firſt to the Lamb of God did guide.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>All Saints.</hi> Epigr. 1.</head>
+               <lg>
+                  <l>THe Saints deceaſ'd, which now ſecurely reſt</l>
+                  <l>In <hi>Abraham</hi>'s boſome of rich joys poſſeſſ'd.</l>
+                  <l>Cry ſtrongly yet, no doubt, to re-obtain</l>
+                  <l>An union with their buried Corps again:</l>
+                  <l>And being alike convinc'd that they, and we</l>
+                  <l>Who ſtill below in theſe dark Manſions be,</l>
+                  <l>Make but one Body, they as ſtrongly pray</l>
+                  <l>That we may gain thoſe joys as well as they.</l>
+                  <l>We alſo here on Earth, having learn'd that thoſe</l>
+                  <l>Bleſt Spirits which now in bliſsful joys repoſe,</l>
+                  <l>Are part of us, and have aſſum'd their Throne</l>
+                  <l>In our behalf, as well as in their own.</l>
+                  <l>Do praiſe thee, Lord, for them, whom thy good grace</l>
+                  <l>Hath rapp'd from hence, into ſo ſweet a place.</l>
+                  <l>Thus whilſt our praiſes, and their prayers do meet</l>
+                  <l>Knit up together, at thy glorious feet.</l>
+                  <l>Whilſt they our wants, and we their joys partake:</l>
+                  <l>And each the others ſtate their own do make.</l>
+                  <l>This is that true Communion indeed</l>
+                  <l>Of Saints, that we are taught out of the Creed.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="68" facs="tcp:62456:35"/>
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>WE are not able, Lord, to comprehend</l>
+                  <l>What numerous troopes of glorious Saints attend</l>
+                  <l>About thy bleſſed Throne, and yet we know</l>
+                  <l>That there's not one of them to whom we owe</l>
+                  <l>Not a Religious reverence, for thoſe ſhares</l>
+                  <l>Which we are ſure we have in all their prayers.</l>
+                  <l>Which due regards, leſt we ſhould haply miſs</l>
+                  <l>In paying to their ſeveral Memori's.</l>
+                  <l>
+                     <hi>Athenian-like,</hi> but in a juſter way,</l>
+                  <l>
+                     <hi>To</hi> th' unknown Saints we Dedicate this day.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 3.</head>
+               <lg>
+                  <l>THe meaneſt of thy Saints, O God, we find</l>
+                  <l>Have left ſuch patterns of their lives behind;</l>
+                  <l>And now ſuch advantageous prayers do make</l>
+                  <l>(At leaſt in general) for their Brethren's ſake,</l>
+                  <l>That we can never pay thee what we owe</l>
+                  <l>For what from one of theſe rich ſprings doth flow.</l>
+                  <l>How much more then, when all their ſtreams unite</l>
+                  <l>Into one flood, muſt that be infinite?</l>
+                  <l>Th' are thus indeed, being view'd by our weak eyes,</l>
+                  <l>Which make alas but poor diſcoveries.</l>
+                  <l>Although compar'd to what thy Chriſt hath done,</l>
+                  <l>Th' are all but like a ſpark unto the Sun.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="69" facs="tcp:62456:35"/>
+               <head>Gunpowder Treaſon. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>ROmes</hi> Mitred Shepherds rage like <hi>Wolves,</hi> and rend</l>
+                  <l>With their fell teeth, the flocks they ought to tend.</l>
+                  <l>But I admire not at it, for 'tis ſed</l>
+                  <l>Her founders with <hi>Wolves</hi> milk at firſt were fed.</l>
+                  <l>And this approv'd experience daily ſhowes,</l>
+                  <l>That from the breaſts men ſuck their nature flows.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>VVHoſe Vicar <hi>Romes</hi> High Prieſt's moſt like to be,</l>
+                  <l>This dayes curſt fire-works teach ſufficientlie.</l>
+                  <l>The devil no doubt firſt taught this murthering skill.</l>
+                  <l>And th' are his Impes alone that uſe it ſtill.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 3.</head>
+               <lg>
+                  <l>'TWas thought that ſuch groſſe hereticks as we</l>
+                  <l>Could ſcarce be ſav'd, or Gods bright Preſence ſee.</l>
+                  <l>When lo, the tender Romaniſt being ſorry</l>
+                  <l>To have us damn'd, prepar'd a Purgatory,</l>
+                  <l>A new-found blaſt of Sulph'rous flames, wherein</l>
+                  <l>Cleanſ'd from the groſs impurities of ſin:</l>
+                  <pb n="70" facs="tcp:62456:36"/>
+                  <l>Prince, Peeres, and People, all at once might flie</l>
+                  <l>(Like <hi>Manaoh</hi>'s Angel) to thoſe joyes on high.</l>
+                  <l>Who'le now hereafter charge the Popiſh rabble</l>
+                  <l>Of ſhaveling Prieſts to be uncharitable,</l>
+                  <l>Who would at their own charge (kind ſoules) convey</l>
+                  <l>Their Enemies to Heaven ſo near a way.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Andrew Apoſtle. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>ANdrew</hi> having found the Chriſt, brings <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> in;</l>
+                  <l>True Converts ſtill ſtrive others ſouls to win.</l>
+                  <l>Nor loſe they by't, for grace is ſuch a thing,</l>
+                  <l>The more men ſpend, the more their waters ſpring.</l>
+                  <l>Like Chriſt his loaves, whereof the more do ſhare,</l>
+                  <l>The fuller ſtill the emptied baskets are.</l>
+                  <l>Or like the widdows oyle, which never ſtayed</l>
+                  <l>Till ſhe an end of pouring out had made.</l>
+                  <l>A ſparing hand here makes the Owner poor,</l>
+                  <l>They that do dole moſt out, have moſt in ſtore,</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon John</hi> 1. 38, 39. Epig. 2.</head>
+               <lg>
+                  <l>
+                     <hi>ANdrew</hi> enquires where Jeſus dwelleth, he</l>
+                  <l>Anſwers him truly, he muſt come and ſee,</l>
+                  <l>'Tis not the hearing of the eare, O man,</l>
+                  <l>That is enough to make a Chriſtian.</l>
+                  <pb n="71" facs="tcp:62456:36"/>
+                  <l>Unleſſe thou come to Chriſt, and with thine eye</l>
+                  <l>Of faith, ſurvey the place where he doth lie.</l>
+                  <l>Thouſands have heard his own ſweet mouth to tell</l>
+                  <l>Where his abode, and yet are gone to Hell,</l>
+                  <l>But none e're came to him that went away,</l>
+                  <l>And periſht in his ſins another day.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>Epigr. 3.</hi> 
+                  <g ref="char:V">Ʋ</g>pon the Scots Arrogating Saint <hi>An<g ref="char:EOLhyphen"/>drew</hi> for their Patron.</head>
+               <lg>
+                  <l>
+                     <hi>SCotland,</hi> we grant, feels <hi>Andrews</hi> powerful hand,</l>
+                  <l>But 'tis to puniſh, not to guard their land,</l>
+                  <l>Their King, their God, their Souls, and all they'll ſell</l>
+                  <l>For a few pence, and run themſelves to Hell,</l>
+                  <l>But this ſad curſe their Saint on them hath laid,</l>
+                  <l>That they ſhall ſtill be poor, for all their Trade.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>December 1.</head>
+               <lg>
+                  <l>MEthinks this Moneth to <hi>Sinai</hi> ſadly leades,</l>
+                  <l>And in our ears the ten Commandments reads,</l>
+                  <l>Thoſe ten ſad words, which none e're kept, and none</l>
+                  <l>E're broke, but 'twas to his own deſtruction.</l>
+                  <l>Sad words indeed, but that this Month, before</l>
+                  <l>It doth expire, brings in a Saviour.</l>
+                  <pb n="72" facs="tcp:62456:37"/>
+                  <l>One that doth keep them from us, and doth bear</l>
+                  <l>That death himſelf, which our ſad ſouls did fear.</l>
+                  <l>O happy Advent! that hath power to make</l>
+                  <l>This yoak ſo eaſie now to undertake,</l>
+                  <l>That takes all dread from theſe ten words away,</l>
+                  <l>And turns our Serpent to a helping ſtay.</l>
+                  <l>Which way ſo e're we look, this Number now</l>
+                  <l>Hath no more threatning wrinkles in its brow.</l>
+                  <l>Look upon Chriſt, and this tenth Month will bring</l>
+                  <l>Him clad in fleſh, to be our offering.</l>
+                  <l>Look on the Law, and all the thunder's gone</l>
+                  <l>And it hath nothing in't, but light alone.</l>
+                  <l>Thus thou, my God, can'ſt make <hi>December</hi> ſnow</l>
+                  <l>With more ſweet joyes, then verdant <hi>May</hi> to flow.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>December <hi>his Feaſts.</hi> 2<g ref="char:punc">▪</g>
+               </head>
+               <lg>
+                  <l>
+                     <hi>DEcember's</hi> twenty firſt is <hi>Thomas</hi> Fee;</l>
+                  <l>The twenty fift is Chriſt's Nativity;</l>
+                  <l>
+                     <hi>Stephen</hi> upon the twenty ſixt they ſtone;</l>
+                  <l>The twenty ſeventh's aſſign'd to aged <hi>John;</hi>
+                  </l>
+                  <l>The twenty eight by <hi>Herods</hi> cruelty</l>
+                  <l>At <hi>Bethlehem,</hi> the poor Innocents did dy.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Thomas Apoſtle. <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>THy faith was weak, it cannot be deny'd,</l>
+                  <l>Such doubtings are not to be juſtifi'd,</l>
+                  <pb n="73" facs="tcp:62456:37"/>
+                  <l>When ſuch a cloud of Witneſſes do meet</l>
+                  <l>To clear a truth, then (<hi>Thomas</hi>) not to ſee't</l>
+                  <l>Is willful blindneſs, which doth not admit</l>
+                  <l>Of any juſt excuſe to cover it.</l>
+                  <l>But yet, bleſt Saint, when by thy Lords conſent</l>
+                  <l>Thy hands had felt thoſe holes the nails had rent,</l>
+                  <l>And that the ſpear had made within his ſide,</l>
+                  <l>Then never man with greater fervour cry'd,</l>
+                  <l>My Lord, my God: O happy, happy tongue!</l>
+                  <l>That feelingly ſo ſweet an Anthem ſung,</l>
+                  <l>
+                     <hi>Thomas</hi> thy failings they were great indeed,</l>
+                  <l>But thy great faith I'm ſure did more exceed.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>
+                     <hi>THomas</hi> had not thy failings been ſo ſad</l>
+                  <l>Our Faith had not ſo firm a footing had;</l>
+                  <l>Thy weakneſs is our ſtrength, and by thy fall</l>
+                  <l>W'are now ſo ſetled, as no tempeſt ſhall</l>
+                  <l>Unfix our holds, or make us doubt again:</l>
+                  <l>O God, what cannot thy great power attain?</l>
+                  <l>Who mak'ſt thy Saints miſcarriages to be</l>
+                  <l>An Antidote to all Poſteritie.</l>
+                  <l>Well may we by their graces look to win</l>
+                  <l>That do become ſuch gainers by their ſin.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="74" facs="tcp:62456:38"/>
+               <head>Epig. 3. <hi>
+                     <g ref="char:V">Ʋ</g>pon John</hi> 20. 21.</head>
+               <lg>
+                  <l>
+                     <hi>THomas</hi> 'tis true, thy late dead Maſter ſtands</l>
+                  <l>Before thy eyes, thou feel'ſt his ſide and hands,</l>
+                  <l>(Such is his grace) and now beleev'ſt indeed,</l>
+                  <l>But 'tis weak faith that ſuch ſtrong proofs doth need.</l>
+                  <l>Bleſſed are they whom leſſer means will draw,</l>
+                  <l>To reſt upon that Chriſt they never ſaw.</l>
+                  <l>Thou doſt not want thy wages, but their Faith</l>
+                  <l>No doubt my God, a double portion hath.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>Christmas Day,</hi> Epig. 1. <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Luke 2. 7.</head>
+               <lg>
+                  <l>STruck with a new Inſtinct me thinks I ſpy</l>
+                  <l>The Beaſts before thy manger proſtrate lie,</l>
+                  <l>And ſtrait cry out, Lord, now 'tis true indeed,</l>
+                  <l>That which we in thy Holy Book do read,</l>
+                  <l>The Oxe, and th' Aſſe their Maſters crib do know,</l>
+                  <l>But <hi>Iſrael</hi> thine own people do not ſo.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>Epig. 2. Verſ. eod.</hi> There was no room for them in the Inne.</head>
+               <lg>
+                  <l>VVHo'd think that <hi>Davids</hi> heir, in <hi>Davids</hi> town</l>
+                  <l>With child, ſhould find no lodging to lay down,</l>
+                  <l>Her precious burthen, but poor creature muſt</l>
+                  <l>Into the ſtable with the Beaſts be thruſt.</l>
+                  <l>But thus in common Inns t' hath always bin,</l>
+                  <l>They thruſt out Chriſt whilſt Ruffians vaunt within.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <pb n="75" facs="tcp:62456:38"/>
+               <head>Epigr. 3. <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Luke 2. 8, 9, 10, 11.</head>
+               <lg>
+                  <l>VVHy didſt thou ſend thine Angel Lord to tell</l>
+                  <l>Poor Shepherds firſt of this great Miracle,</l>
+                  <l>The birth of thy Meſſias which had bin</l>
+                  <l>News for the ſtatelieſt Courts to have gloried in:</l>
+                  <l>Was it to ſhow that in theſe heavenly things,</l>
+                  <l>Poor Swains oft get the ſtart of mighty Kings?</l>
+                  <l>Or was't becauſe that he whoſe birth was told,</l>
+                  <l>Himſelf was the great Shepherd of the fold,</l>
+                  <l>And 'twas but meet that ſuch as Shepherds were,</l>
+                  <l>The birth of the great Shepherd firſt ſhould hear;</l>
+                  <l>Or wouldſt thou have theſe Shepherds know that Lambe</l>
+                  <l>Of God was now brought forth, whom it became</l>
+                  <l>Them to look after, more then all their own;</l>
+                  <l>A Lamb that whoſome're doth wait upon,</l>
+                  <l>They are kept ſafe, by that ſame Lamb they keep,</l>
+                  <l>The Shepherds are preſerved by the Sheep;</l>
+                  <l>Whether this or that induc'd thee Lord to ſhow</l>
+                  <l>This grace, to theſe poor men, I do not know.</l>
+                  <l>But this I know, they've ſeen ſuch things to day</l>
+                  <l>As never men beheld before but they;</l>
+                  <l>Go happy Shepherds, leave your flocks and hie,</l>
+                  <l>To <hi>Beth'lem</hi> where your Infant Lord doth lie:</l>
+                  <l>And when you have view'd his ſacred perſon well,</l>
+                  <l>Spare not aloud, what you have ſeen to tell;</l>
+                  <l>Write volums of theſe things, and let them bear</l>
+                  <l>The title of the Shepherds Calender.</l>
+                  <pb n="76" facs="tcp:62456:39"/>
+                  <l>This I aſſure you, never ſhepherds knew</l>
+                  <l>With all their ſtudies, half ſo much as you.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Saint <hi>Stephen.</hi> Epig. 1.</head>
+               <lg>
+                  <l>THy name, great <hi>Stephen,</hi> doth a Crown denote,</l>
+                  <l>And thou indeed a goodly Crown has got.</l>
+                  <l>The firſt rich Crown that ever Martyr ware,</l>
+                  <l>That witneſs to his glorious Maſter bare.</l>
+                  <l>Chriſt by his ſufferings paſt into his Throne;</l>
+                  <l>And thou the ſelf ſame-way to thine art gone.</l>
+                  <l>Where thou now reigneſt with him, O happy man!</l>
+                  <l>That by one Combat, ſuch a Kingdome wan.</l>
+                  <l>Had I, great Saint, that learned <hi>Graecian's</hi> skill,</l>
+                  <l>And could drop golden raptures from my quill,</l>
+                  <l>I'de write whole books like his, and they ſhould be</l>
+                  <l>Πέρι στεφάνου of thy Crown and thee.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Act. 7. 56. Epig. 2.</head>
+               <lg>
+                  <l>THat Chriſt on Gods right hand enthron'd doth ſit,</l>
+                  <l>Our Creed, and all the Scriptures witneſs it.</l>
+                  <l>Yet thou, great Martyr, ſeeſt him ſtand, a thing</l>
+                  <l>Well worthy of our ſtrict examining.</l>
+                  <l>But I have found it. Thou being now to fight</l>
+                  <l>This firſt pitch'd Combat in thy Maſters right:</l>
+                  <l>Chriſt leaves his ſeat, and upon tiptoe ſtands</l>
+                  <l>To ſee how thou thereof wouldſt quit thy hands,</l>
+                  <l>And having ſeen thee, with much joy to win</l>
+                  <l>The prize, he opes the Heavens to take thee in.</l>
+                  <pb n="77" facs="tcp:62456:39"/>
+                  <l>And will ſit down no more, thou happy one,</l>
+                  <l>Till he have plac'd thee firſt upon thy throne:</l>
+                  <l>And ta'ne thoſe ſtones, which when thou now didſt dy</l>
+                  <l>About thy head like ſtormes of hayl did fly:</l>
+                  <l>And chang'd to Rubies, have enameld them</l>
+                  <l>About thy well-wrought glorious Diadem.</l>
+                  <l>
+                     <hi>Stephen,</hi> thy way indeed was hard and rough,</l>
+                  <l>But thy reward at laſt was ſweet enough.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> Act. 7. 6. <hi>He fell aſleep.</hi> Epig. 3.</head>
+               <lg>
+                  <l>THen when the furious ſtones in ſtormes did fall</l>
+                  <l>About thy head, when blood and brains and all</l>
+                  <l>Spatt'red from thy diſſevered skull, and thoſe</l>
+                  <l>That gave them, have bemoan'd their dreadful blowes,</l>
+                  <l>'Tis ſayd thou fell'ſt aſleep, O wondrous thing!</l>
+                  <l>Was this a time for ſleep to ſpred her wing</l>
+                  <l>About thy peaceful temples? cou'd'ſt thou ly</l>
+                  <l>So gently down, when ſuch rough ſtorms did fly?</l>
+                  <l>But I admire not, thou hadſt ſeen a ſight</l>
+                  <l>That raviſh'd thy glad Soul with more delight</l>
+                  <l>Then all thoſe wounds could fright thee with, which were</l>
+                  <l>Indeed an <hi>Exit,</hi> not a cauſe of fear.</l>
+                  <l>Let me my God but ſuch a viſion ſee,</l>
+                  <l>And I ſhall ſleep in death as well as he.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>John <hi>the Evangeliſt.</hi> Epig. 1.</head>
+               <lg>
+                  <l>'Twas not for naught, great <hi>John,</hi> that thou didſt reſt</l>
+                  <l>Thy head upon thy Maſters ſacred Breſt,</l>
+                  <pb n="78" facs="tcp:62456:40"/>
+                  <l>Thence thou deriv'ſt thoſe heavenly gifts that none</l>
+                  <l>Of all the twelve e're had but thou alone:</l>
+                  <l>They mov'd in narrower Spheres, one's hand did pen,</l>
+                  <l>Epiſtles to the ſcattered brethren:</l>
+                  <l>Another fill'd with a celeſtial light,</l>
+                  <l>The ſtorie of his Saviours life did write:</l>
+                  <l>But thou alone in one ſweet knot didſt twiſt,</l>
+                  <l>Prophet, Apoſtle, and Evangeliſt.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 2. <hi>
+                     <g ref="char:V">Ʋ</g>pon</hi> John 19. 26, 27.</head>
+               <lg>
+                  <l>THis povver to all beleevers is convey'd,</l>
+                  <l>That they are Gods adopted children made,</l>
+                  <l>And 'tis a grace indeed, to be alli'd</l>
+                  <l>To Chriſt the Lord upon the better ſide:</l>
+                  <l>But <hi>John</hi> to thee this further honour's done</l>
+                  <l>That thou'rt adopted alſo <hi>Maries</hi> ſon;</l>
+                  <l>On both ſides novv unto thy Lord a kin,</l>
+                  <l>His German-brother doubly grafted in;</l>
+                  <l>O vvho can boaſt great Saint, as thou canſt do?</l>
+                  <l>The Son of God, and Son of <hi>Mary</hi> too!</l>
+                  <l>No mortal man had e're that favour ſhovvn,</l>
+                  <l>To be thus truly ſtil'd, but thou alone.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>
+                  <hi>Epig. 3.</hi> 
+                  <g ref="char:V">Ʋ</g>pon the Effigies of an Eagle, aſcrib'd to S. <hi>John.</hi>
+               </head>
+               <lg>
+                  <l>T'Was not unmeet bleſt Saint that thou didſt bear</l>
+                  <l>The quick-y'd Eagles ſpecious Character,</l>
+                  <pb n="79" facs="tcp:62456:40"/>
+                  <l>Who couldſt with fixed looks ſo freely gaze,</l>
+                  <l>Upon thoſe beams which other eyes amaze;</l>
+                  <l>Who haſt thy Lords dread perſon ſo expreſt,</l>
+                  <l>As if thou dſt lain, not on, but in his breſt;</l>
+                  <l>As though the other Writers all had ſeen</l>
+                  <l>But his back-parts, and thou alone hadſt been</l>
+                  <l>Familiar with his face, which ſhone ſo bright,</l>
+                  <l>That no mans eies but thine could brook the ſight.</l>
+                  <l>The Type was apt, but ſhort, the Eagles eye</l>
+                  <l>And towring wing indeed, that ſoars ſo high,</l>
+                  <l>Something preſent thy <hi>Genius,</hi> but not well</l>
+                  <l>For ſhe wants tongue the things ſhe ſees to tell;</l>
+                  <l>Thou with Seraphick skill at once didſt ſee,</l>
+                  <l>And warble out thy Saviours dignitie:</l>
+                  <l>Well did the Church in one ſweet Book of thine,</l>
+                  <l>Aſcribe to thee the Title of Divine.</l>
+                  <l>Thou ſhowd'ſt thy ſelf ſo there, and to ſay true</l>
+                  <l>In all the reſt great Saint, thou didſt ſo too.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Innocents day, <hi>Epig. 1.</hi>
+               </head>
+               <lg>
+                  <l>VVEigh but the ſins, and ſorrows age doth bring,</l>
+                  <l>And you'l conclude it is a happy thing</l>
+                  <l>To die betimes, and ſo prevent thoſe woes</l>
+                  <l>Which he that long ſurviveth undergoes,</l>
+                  <l>This was your caſe, ſweet Babes, you early dy'd,</l>
+                  <l>And ſo bleſt ſouls the fewer evils try'd</l>
+                  <l>But that's not all, you dy'd for Jeſus ſake,</l>
+                  <l>And that's a cauſe indeed enough to make</l>
+                  <pb n="80" facs="tcp:62456:41" rendition="simple:additions"/>
+                  <l>The ſaddeſt ſuffrings glorious; never man</l>
+                  <l>For his behoof the ſmaleſt hazzard ran</l>
+                  <l>And lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y the adventure, ſo to dy,</l>
+                  <l>Is to live happy everlaſtingly.</l>
+                  <l>Then weep not <hi>Rachell</hi> that thy Sons are ſlayne,</l>
+                  <l>Nor reckon that thy loſs, that was their gaine.</l>
+                  <l>'Twas mercy that thy children dy'd ſo ſoon,</l>
+                  <l>But that they thus did dy, 's a double Boon.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epig. 2.</head>
+               <lg>
+                  <l>THe ſting of death is ſin, remove but that,</l>
+                  <l>And death hath nothing to be trembled at.</l>
+                  <l>What need then theſe ſweet Infants fear; th' events</l>
+                  <l>Of death, ne're hurt ſuch harmleſs Innocents.</l>
+                  <l>Lord, waſh my Soul as clean as theirs, and I</l>
+                  <l>When e're thou call'ſt, will be content to dy.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Epigr. 3.</head>
+               <lg>
+                  <l>YOu dy'd for Chriſt, ſweet Babes, but grudge not though,</l>
+                  <l>You gain'd a glorious Crown by doing ſo:</l>
+                  <l>And 'twas no ſorry bargain, that to loſe</l>
+                  <l>A moments breath, for ſuch rich joys as thoſe;</l>
+                  <l>And yet that breath was none of yours, beſide<g ref="char:punc">▪</g>
+                  </l>
+                  <l>'Twas bought before by him, for whom you dy'd</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62456:41"/>
+         </div>
+      </body>
+   </text>
+</TEI>
